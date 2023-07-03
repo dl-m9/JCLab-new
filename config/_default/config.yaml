@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: JC STEM Lab  #<img src="https://template.cityu.edu.hk/template/logo/cityu/CityU_Horizontal_Logo_CMYK.png"> # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
