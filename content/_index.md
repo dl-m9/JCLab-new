@@ -33,7 +33,7 @@ sections:
         - name: Internet of Things
           description: 90%
           icon: router
-          icon_pack: fas
+          icon_pack: custom
         - name: Federated Learning
           description: 100%
           icon: chart-line

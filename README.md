@@ -4,12 +4,13 @@ This is the official website of JC STEM Lab for Smart City
 
 ## Get Started
 
-Prerequest:
+Prerequisite:
 - Go
 - Git
 - Node.Js
 
 ### Mac
+If you want to know how to get started in Windows or Linux, check the [document of wowchemy](https://wowchemy.com/docs/getting-started/install-hugo-extended/).
 - Open the Terminal App
 - Install HomeBrew
 ``` bash
