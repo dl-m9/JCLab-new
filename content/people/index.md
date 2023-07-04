@@ -5,6 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
+  
+  # - block: 
+  #   # id: about
+  #   content: 
+  #     title: <img src="http://www.fang.ece.ufl.edu/fang13.jpg" width="60%"> 
+  #     subtitle: <b>Prof. FANG Yuguang<b><br>ACM Fellow, IEEE Fellow
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     text: |-
+        
+  #   design:
+  #     columns: '2'
+      # username: admin
   - block: people
     content:
       title: Meet the Team
@@ -13,10 +25,11 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
-          - Grad Students
-          - Administration
+          - PhDs
+          - Postdoctors
           - Visitors
-          - Alumni
+          - Alumnis
+
       sort_by: Params.last_name
       sort_ascending: true
     design:

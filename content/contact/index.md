@@ -45,7 +45,7 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '1'
+      columns: '2'
 
   - block: markdown
     content:
