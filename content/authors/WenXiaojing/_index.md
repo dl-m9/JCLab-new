@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b><span style="color:black">Visiting PhD Student in CityU</span></b>
+role: <b><span>Visiting PhD Student in CityU</span></b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

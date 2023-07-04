@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b style="color:black">Zhengru Fang is a first-year PhD student whose research interests include collaborative perception, V2X, age of information, and mobile edge computing.</b>
+role: <b>Zhengru Fang is a first-year PhD student whose research interests include collaborative perception, V2X, age of information, and mobile edge computing.</b>
 
 
 # TODO:Organizations/Affiliations 必填

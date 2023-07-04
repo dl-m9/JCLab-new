@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b><span style="color:black">Dr. Xu now is a postdoc in CityU, his research interests are AI security and applied Cryptography</span></b>
+role: <b><span>Dr. Xu now is a postdoc in CityU, his research interests are AI security and applied Cryptography</span></b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # 这里可以简单介绍下自己，必填
-role: <b><span style="color:black">Chair Professor of IoT, IEEE Fellow, ACM Fellow, AAAS Fellow</span></b>
+role: <b><span>Chair Professor of IoT, IEEE Fellow, ACM Fellow, AAAS Fellow</span></b>
 
 # Organizations/Affiliations 必填
 organizations:
