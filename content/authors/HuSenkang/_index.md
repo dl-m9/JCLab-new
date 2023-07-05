@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b><span>Senkang Hu is now a PhD student in CityU, his research interests are Deep Learning, computer vision, federated learning, edge intelligence, etc.</span></b>
+role: <b><span>Senkang Hu is currently a PhD student in CityU, his research interests are Deep Learning, computer vision, federated learning, edge intelligence, etc.</span></b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
