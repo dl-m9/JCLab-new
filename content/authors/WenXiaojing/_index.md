@@ -20,6 +20,8 @@ role: <b><span>Visiting PhD Student in CityU</span></b>
 organizations:
   - name: City University of Hong Kong 
     url: 'https://www.cityu.edu.hk'
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
   #- name: Homepage  # 写自己的主页链接，如果没有则注释掉
   # url: https://www.cs.cityu.edu.hk/~yugufang/
 
@@ -76,6 +78,7 @@ user_groups:
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
-<p style="text-align:justify"> Xiaojing Wen received the B.S. degree at the Department of Measurement and Control Technology and Instruments, Jilin University, Changchun, China, in 2018. She is currently pursuing the Ph.D. degree in the school of Electronic Information and Electronical Engineering, Shanghai Jiao Tong University, Shanghai, China. Additionally, she is conducting a visiting Ph.D. student program at the Department of Computer Science, City University of Hong Kong. Her current research focuses the co-design of sensing-communication-computing, edge-assisted IIoT system and industrial network slicing. 
+<!-- <p style="text-align:justify">  -->
+Xiaojing Wen received the B.S. degree at the Department of Measurement and Control Technology and Instruments, Jilin University, Changchun, China, in 2018. She is currently pursuing the Ph.D. degree in the school of Electronic Information and Electronical Engineering, Shanghai Jiao Tong University, Shanghai, China. Additionally, she is conducting a visiting Ph.D. student program at the Department of Computer Science, City University of Hong Kong. Her current research focuses the co-design of sensing-communication-computing, edge-assisted IIoT system and industrial network slicing. 
 
 

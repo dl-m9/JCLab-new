@@ -81,4 +81,5 @@ user_groups:
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
-<p style="text-align:justify"> Fang Zihan received a BEng. degree in Electrical Engineering from Southeast University, Jiangsu in 2019, and a MSc. degree in Electrical Engineering from Fudan University, Shanghai in 2023. She is currently pursuing her PhD. degree at City University of Hong Kong. Her main research interest is Vehicle Networks, Mobile/Edge Computing and Connected and Autonomous Driving.
+<!-- <p style="text-align:justify">  -->
+Fang Zihan received a BEng. degree in Electrical Engineering from Southeast University, Jiangsu in 2019, and a MSc. degree in Electrical Engineering from Fudan University, Shanghai in 2023. She is currently pursuing her PhD. degree at City University of Hong Kong. Her main research interest is Vehicle Networks, Mobile/Edge Computing and Connected and Autonomous Driving.

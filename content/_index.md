@@ -90,11 +90,7 @@ sections:
             <br> <br>
             <b>[06/21/2022]</b> Congratulations to **Dr. Jianqing Liu**, our former member, who will join the Department of Computer Science, North Carolina State University (NC State), as an **assistant professor**!!! (6/21/2022) <br><br>
             <b>[05/10/2022]</b> Congratulations to **Kaichen**, who has accepted an **assistant professor** position in the Department of Electrical and Computer Engineering at **Michigan Technological University**!!! <br><br>
-
-            <b>[05/05/2022]</b> Congratulations to **Linke**, our former member, who has been promoted to **Associate Professor** with tenure in the Department of Electrical and Computer Engineering at Clemson University!!!
-                        <br> <br>
-
-            
+            <b>[05/05/2022]</b> Congratulations to **Linke**, our former member, who has been promoted to **Associate Professor** with tenure in the Department of Electrical and Computer Engineering at Clemson University!!!<br> <br>
             <b>[03/29/2022]</b> Congratulations to **Xianhao**, who has accepted a **tenure-track Assistant Professor** position in the Department of Electrical and Electronic Engineering at **University of Hong Kong**!!! <br> <br>
             
             {{< spoiler text="Click to View More" >}}

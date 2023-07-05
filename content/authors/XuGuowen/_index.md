@@ -57,5 +57,6 @@ user_groups:
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
-<p style="text-align:justify"> Guowen Xu is currently a Postdoc at City University of Hong Kong under the supervision of Prof. Yuguang Fang. He was a Research Fellow at Nanyang Technolgoical University from March 2021 to May 2023. He obtained his Ph.D. degree from University of Electronic Science and Technology of China. He prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. His current research intertests focus on different topics related to AI Security and Privacy.
+<!-- <p style="text-align:justify">  -->
+Guowen Xu is currently a Postdoc at City University of Hong Kong under the supervision of Prof. Yuguang Fang. He was a Research Fellow at Nanyang Technolgoical University from March 2021 to May 2023. He obtained his Ph.D. degree from University of Electronic Science and Technology of China. He prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. His current research intertests focus on different topics related to AI Security and Privacy.
 
