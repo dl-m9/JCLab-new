@@ -82,7 +82,7 @@ sections:
   - block: markdown
     content:
       title: Latest News
-      subtitle: /#hello.md
+      subtitle: 
       text: |-
             <b>[01/18/2023]</b> 🔥🔥🔥 Congratulations to **Prof. Fang**, who has been elevated to <b><span style="color:blue;">ACM Fellow</span></b>!!!
             <br> <br>
