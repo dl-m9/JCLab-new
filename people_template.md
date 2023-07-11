@@ -71,12 +71,13 @@ education:
 
 # TODO:选一个自己的身份
 user_groups:
-  - Principal Investigators
+  # - Principal Investigators
   # - Researchers
   # - PhDs
   # - Visitors
-  # - Alumni
-  # - Postdoctor
+  # - Alumnis
+  # - Postdoctors
+  # - Faculty
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

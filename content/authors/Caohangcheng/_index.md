@@ -72,5 +72,6 @@ user_groups:
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
-<p style="text-align:justify"> Hangcheng Cao (曹航程) is a postdoctoral fellow at the City University of Hong Kong, supervised by Prof. Yuguang Fang. He received his Ph.D. degree from the College of Computer Science and Electronic Engineer, Hunan University. From 2021 to 2022, he studies as a joint Ph.D. student at the School of Computer Science and Engineering at Nanyang Technological University, Singapore. His research interests lie in the area of IoT security analysis and protection, particularly focusing on user authentication, wireless sensing security, side channel attack, etc. He has published papers in ACM Ubicomp/IMWUT, IEEE ICDCS, ACM MobiCom Workshop, IEEE TMC, ACM ToSN, IEEE IoT-J, IEEE Communications Magazine, etc. 
+<!-- <p style="text-align:justify">  -->
+Hangcheng Cao (曹航程) is a postdoctoral fellow at the City University of Hong Kong, supervised by Prof. Yuguang Fang. He received his Ph.D. degree from the College of Computer Science and Electronic Engineer, Hunan University. From 2021 to 2022, he studies as a joint Ph.D. student at the School of Computer Science and Engineering at Nanyang Technological University, Singapore. His research interests lie in the area of IoT security analysis and protection, particularly focusing on user authentication, wireless sensing security, side channel attack, etc. He has published papers in ACM Ubicomp/IMWUT, IEEE ICDCS, ACM MobiCom Workshop, IEEE TMC, ACM ToSN, IEEE IoT-J, IEEE Communications Magazine, etc. 
 

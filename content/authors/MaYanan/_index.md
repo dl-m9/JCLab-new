@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Ms. MA Yanan
+title: Ms. MA Ya'nan
 
 # TODO:Full name (for SEO) 必填
 first_name: Yanan   
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Yanan Ma is a PhD student at the Department of Computer Science in City University of Hong Kong.</b>
+role: <b>Yanan Ma is a PhD student in City University of Hong Kong. Her research interests include wireless communication, RIS, and vehicular network.</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
