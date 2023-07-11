@@ -1,13 +1,13 @@
 ---
 title: 'Vehicle as a service (vaas): Leverage vehicles to build service networks and capabilities for smart cities'
 authors:
-  - Prof. CHEN Xianhao
-  - Yiqin Deng
-  - Haichuan Ding
-  - Guanqiao Qu
-  - Haixia Zhang
-  - Prof. LI Pan
-  - Prof. FANG Yuguang
+  # - Prof. CHEN Xianhao
+  # - Yiqin Deng
+  # - Haichuan Ding
+  # - Guanqiao Qu
+  # - Haixia Zhang
+  # - Prof. LI Pan
+  # - Prof. FANG Yuguang
 date: '2023-04-22T00:00:00Z'
 doi: ''
 
