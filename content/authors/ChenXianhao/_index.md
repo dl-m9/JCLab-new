@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Prof. Chen is currently a Assistant Professor of HKU, he is our Affiliated Faculty</b>
+role: <b>Prof. Chen is currently the Assistant Professor of HKU, he is our Affiliated Faculty</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

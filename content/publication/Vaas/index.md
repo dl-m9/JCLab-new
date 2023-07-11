@@ -1,14 +1,14 @@
 ---
-title: 'a example, conference paper'
+title: 'Vehicle as a service (vaas): Leverage vehicles to build service networks and capabilities for smart cities'
 authors:
-  - Xianhao Chen
+  - Prof. CHEN Xianhao
   - Yiqin Deng
   - Haichuan Ding
   - Guanqiao Qu
   - Haixia Zhang
-  - Pan Li
-  - Yuguang Fang
-date: '2023-4-22'
+  - Prof. LI Pan
+  - Prof. FANG Yuguang
+date: '2023-04-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-# publication_types: ['1']
+publication_types: ['3']
 
 # # Publication name and optional abbreviated publication name.
 # publication: In *Source Themes Conference*
@@ -36,7 +36,7 @@ doi: ''
 # links:
 #   # - name: Custom Link
 #   #   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://arxiv.org/pdf/2304.11397.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
