@@ -71,7 +71,7 @@ education:
 user_groups:
   # - Principal Investigators
   # - Researchers
-  - PhDs
+  - Current PhD Students
   # - Visitors
   # - Alumni
   # - Postdoctor
@@ -79,6 +79,6 @@ user_groups:
 <!-- TODO:写自己的Biography -->
 # Biography
 <!-- <p style="text-align:justify">  -->
-Senkang Hu is a dedicated scholar who received his Bachelor of Science degree from Beijing Institute of Technology. He is currently advancing his academic pursuits as a PhD student at the esteemed City University of Hong Kong, under the expert guidance of <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a>. 
+Senkang "Forest" Hu is a dedicated scholar who received his Bachelor of Science degree from Beijing Institute of Technology. He is currently advancing his academic pursuits as a PhD student at the esteemed City University of Hong Kong, under the expert guidance of <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a>. 
 
 Over the course of his academic journey, Senkang has garnered numerous prestigious honors and awards, including the <b>National Scholarship, CASC Scholarship</b>, First Class Academic Scholarship, and the title of "Excellent Student" at the Beijing Institute of Technology. These accolades stand testament to his unwavering dedication and remarkable competence. As he continues his research endeavors, looking forward to seeing Senkang making notable contributions to his field and achieving great success in his future career.

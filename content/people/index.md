@@ -26,10 +26,30 @@ sections:
           - Principal Investigators
           - Faculty
           - Researchers
-          - PhDs
-          - Postdoctors
+          - Current PhD Students
+          - Postdoctoral Researchers
           - Visitors
           - Alumnis
+
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
+  - block: people
+    content:
+      title: Former Members
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          # - Principal Investigators
+          # - Faculty
+          # - Researchers
+          # - Current PhD Students
+          # - Postdoctoral Researchers
+          # - Visitors
+          # - Alumnis
 
       sort_by: Params.last_name
       sort_ascending: true

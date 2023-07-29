@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Prof. Li is currently the Associate Professor of Case Western Reserve University, USA. He is our Affiliated Faculty</b>
+role: <b>Associate Professor <br> Case School of Engineering, <br>Case Western Reserve University, USA. </b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

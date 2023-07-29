@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Prof. Chen is currently the Assistant Professor of HKU, he is our Affiliated Faculty</b>
+role: <b>Assistant Professor <br> Department of Electrical and Electronic Engineering, <br> University of Hong Kong</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -81,6 +81,6 @@ user_groups:
 # Biography
 <!-- <p style="text-align:justify">  -->
 
-I am an assistant professor at the [Department of Electrical and Electronic Engineering, the University of Hong Kong](https://www.eee.hku.hk/), leading the **W**ireless **I**nformation & Inte**ll**igence (**WILL**) lab. I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](https://www.cs.cityu.edu.hk/~yugufang/), and my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017. I received 2022 ECE graduate excellence award for research from the University of Florida.
+I am an assistant professor at the [Department of Electrical and Electronic Engineering, University of Hong Kong](https://www.eee.hku.hk/), leading the **W**ireless **I**nformation & Inte**ll**igence (**WILL**) lab. I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](https://www.cs.cityu.edu.hk/~yugufang/), and my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017. I received 2022 ECE graduate excellence award for research from the University of Florida.
 
 **If you are interested in working with me as a Ph.D. student/research assistant, please feel free to drop me an email including your CV, transcript, and sample publications (if any)**. Due to the volume of email inquiries, I may only be able to contact shortlisted candidates (usually within one week). Thanks for your understanding.

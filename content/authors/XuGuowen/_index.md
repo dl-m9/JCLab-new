@@ -53,7 +53,7 @@ education:
 
 # TODO:选一个自己的身份
 user_groups:
-  - Postdoctors
+  - Postdoctoral Researchers
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

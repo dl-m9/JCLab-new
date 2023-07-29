@@ -68,7 +68,7 @@ user_groups:
   # - PhDs
   # - Visitors
   # - Alumni
-  - Postdoctors
+  - Postdoctoral Researchers
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

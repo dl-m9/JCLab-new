@@ -69,7 +69,7 @@ education:
 
 # TODO:选一个自己的身份
 user_groups:
-    - PhDs
+    - Current PhD Students
 # <div style='display: none'>
 #   #- Principal Investigators
 #   # - Researchers

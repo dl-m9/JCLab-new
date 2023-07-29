@@ -4,7 +4,7 @@ title: Prof. FANG Yuguang
 
 # Full name (for SEO) 必填
 first_name: Yuguang   
-last_name: Fang
+last_name: A
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # 这里可以简单介绍下自己，必填
-role: <b><span>Chair Professor of IoT, IEEE Fellow, ACM Fellow, AAAS Fellow</span></b>
+role: <b style="color:#1565C0;"> Lab Director</b><b> <br> Chair Professor of IoT <br>FIEEE, FACM, FAAAS</b>
 
 # Organizations/Affiliations 必填
 organizations:
@@ -83,12 +83,13 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 # 选一个自己的身份
 user_groups:
-  - Principal Investigators
+  # - Principal Investigators
   # - Researchers
   # - PhDs
   # - Visitors
   # - Alumni
   # - Postdoctor
+  - Faculty
 ---
 # Biography
 

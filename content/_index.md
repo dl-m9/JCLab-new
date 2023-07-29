@@ -8,20 +8,15 @@ sections:
   - block: hero
     content: 
       title: 
-        JC STEM Lab for Smart City
+        JC STEM Lab of Smart City
       image:
         filename: group.jpg
       text: | 
         <br>
         <p>
-        The JC STEM Lab for Smart City was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a> in 2022 in Hong Kong, Our mission is leveraging vehicles to build a smarter city.  
+        The JC STEM Lab of Smart City was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a> in 2022 in Hong Kong, Our mission is to leverage vehicles to build a smarter city.  
         </p>
-        <p style="font-size:20px;color:#B8DCFF">
-          JC STEM Lab is embedded in the 
-        <a href = "https://www.cs.cityu.edu.hk/">Department of Computer Science</a> 
-        at 
-        <a href = "https://www.cityu.edu.hk/">City Universitu of Hong Kong</a> 
-        </p> 
+        
     design:
       background:
         gradient_start: '#0476D0'
@@ -34,12 +29,8 @@ sections:
       background:
         color: 
     content:
-      title: Our Topics
-      subtitle: 
-        <div align="center">
-          <img src="https://ts1.cn.mm.bing.net/th/id/R-C.cd97f629606d8b000d974125f9a81d15?rik=ecRwQcGHGLJr9w&riu=http%3a%2f%2fwww.cityu.edu.hk%2fchem%2fconference%2f2018-icoban%2fimg%2fCityU_Logo_Basic_Signature.png&ehk=%2f8dNdGv6%2bWB%2bszhrlxZ%2fQkRRwPcRBhtde3YBTsm8JdM%3d&risl=&pid=ImgRaw&r=0" width="15%"><br>
-        </div>
-      text: We are based at City University of Hong Kong
+      title: Our Research
+      
       items:
         - name: Internet of Things
           description: The Internet of Things (IoT) is a network of interconnected devices that communicate and exchange data, enhancing automation and real-time monitoring in various fields, from home appliances to industrial machinery.

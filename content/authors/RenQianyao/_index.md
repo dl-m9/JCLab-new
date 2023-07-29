@@ -67,7 +67,7 @@ education:
 user_groups:
   # - Principal Investigators
   # - Researchers
-  - PhDs
+  - Current PhD Students
   # - Visitors
   # - Alumni
   # - Postdoctor
