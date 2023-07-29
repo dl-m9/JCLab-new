@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Yun JI currently is a PhD student in Tsinghua University and a visiting student in City University of Hong Kong</b>
+role: <b>Visiting Student in CityU <br>PhD student in Tsinghua University</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
