@@ -14,8 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b><span style="color:black">Visiting Student in CityU
-PhD Student in University of Electronic Science and Technology of China</span></b>
+role: <b>Visiting Student in CityU <br> PhD Student in University of Electronic Science and Technology of China</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -84,5 +83,6 @@ user_groups:
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
-<p style="text-align:justify"> Xinyuan Qian received B.Eng. degree in security engineering in People's Public Security University of China in 2018 and M.Eng. degree in computer technology in University of Chinese Academy of Sciences in 2021. He is currenting pursuing the Ph.D. degree in School of Computer Science and Engineering, University of Electronic Science and Technology of China. His research interests include IBE, ABE, FE, FHE, applied cryptography, and privacy-preserving machine learning. Since August 2023, he has been visiting Professor Fang at City University of Hong Kong. His current research focuses on Lattice-Based Cryptography, Functional Encryption, and Privacy Preserving Machine Learning.
+
+Xinyuan Qian received B.Eng. degree in security engineering in People's Public Security University of China in 2018 and M.Eng. degree in computer technology in University of Chinese Academy of Sciences in 2021. He is currenting pursuing the Ph.D. degree in School of Computer Science and Engineering, University of Electronic Science and Technology of China. His research interests include IBE, ABE, FE, FHE, applied cryptography, and privacy-preserving machine learning. Since August 2023, he has been visiting Professor Fang at City University of Hong Kong. His current research focuses on Lattice-Based Cryptography, Functional Encryption, and Privacy Preserving Machine Learning.
 
