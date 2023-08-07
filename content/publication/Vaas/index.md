@@ -8,6 +8,14 @@ authors:
   # - Haixia Zhang
   # - Prof. LI Pan
   # - Prof. FANG Yuguang
+  - Xianhao Chen
+  - Yiqin Deng
+  - Haichuan Ding
+  - Guanqiao Qu
+  - Haixia Zhang
+  - Pan Li
+  - Yuguang Fang
+
 date: '2023-04-22T00:00:00Z'
 doi: ''
 
@@ -21,7 +29,7 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 	arXiv:2304.11397
 publication_short: 
 
 abstract: Smart cities demand resources for rich immersive sensing, ubiquitous communications, powerful computing, large storage, and high intelligence (SCCSI) to support various kinds of applications, such as public safety, connected and autonomous driving, smart and connected health, and smart living. At the same time, it is widely recognized that vehicles such as autonomous cars, equipped with significantly powerful SCCSI capabilities, will become ubiquitous in future smart cities. By observing the convergence of these two trends, this article advocates the use of vehicles to build a cost-effective service network, called the Vehicle as a Service (VaaS) paradigm, where vehicles empowered with SCCSI capability form a web of mobile servers and communicators to provide SCCSI services in smart cities. Towards this direction, we first examine the potential use cases in smart cities and possible upgrades required for the transition from traditional vehicular ad hoc networks (VANETs) to VaaS. Then, we will introduce the system architecture of the VaaS paradigm and discuss how it can provide SCCSI services in future smart cities, respectively. At last, we identify the open problems of this paradigm and future research directions, including architectural design, service provisioning, incentive design, and security & privacy. We expect that this paper paves the way towards developing an economically effective and sustainable approach for building smart cities.
@@ -71,7 +79,7 @@ slides:
 ---
 
 {{% callout note %}}
-Click the _ICON_ below 👇 to share this paper on your social media.
+Click the <b>ICON</b> below 👇 to share this paper on your social media.
 {{% /callout %}}
 
 <!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

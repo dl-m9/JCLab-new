@@ -49,7 +49,7 @@ sections:
           icon: 📱
           icon_pack: emoji
         - name: Vehicle as a Service (VaaS)
-          description: Our Vision is to leverage the Vehicles to build a 
+          description: We are delicated to use of vehicles to build a cost-effective service network, called the Vehicle as a Service (VaaS) paradigm.
           icon: car
           icon_pack: custom
         - name: Cybersecurity
@@ -75,7 +75,7 @@ sections:
       title: Latest News
       subtitle: 
       text: |-
-            <b>[01/18/2023]</b> 🔥🔥🔥 Congratulations to **Prof. Fang**, who has been elevated to <b><span style="color:blue;">ACM Fellow</span></b>!!!
+            <b>[01/18/2023]</b> 🔥🔥🔥 Congratulations to **Prof. Fang**, who has been elevated to <b><span style="color:#1565C0;"><a href="https://www.acm.org/media-center/2023/january/fellows-2022">  ACM Fellow</a>   </span></b>!!!
             <br> <br>
             <b>[08/05/2022]</b> 🔥🔥🔥 Congratulations to **Prof. Fang**, who will join the Department of Computer Science, City University of Hong Kong (CityU), as the **Chair Professor of Internet of Things**!!! 
             <br> <br>
