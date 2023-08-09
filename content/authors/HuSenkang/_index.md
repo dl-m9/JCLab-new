@@ -44,7 +44,7 @@ social:
   #   link: files/cv.pdf
   - icon: linkedin 
     icon_pack: fab
-    link: https://www.linkedin.com/in/thoughts-reality-3123681b5/
+    link: https://www.linkedin.com/in/senkang-hu-3123681b5/
 
 # TODO:这块是自己的研究兴趣
 interests:
