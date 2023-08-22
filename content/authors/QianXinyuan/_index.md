@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Visiting Student in CityU <br> PhD Student in University of Electronic Science and Technology of China</b>
+role: <b>Visiting Student @ CityU <br> PhD Student @ UESTC</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

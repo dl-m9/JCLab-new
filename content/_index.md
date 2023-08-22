@@ -52,20 +52,20 @@ sections:
           description: We are delicated to use of vehicles to build a cost-effective service network, called the Vehicle as a Service (VaaS) paradigm.
           icon: car
           icon_pack: custom
-        - name: Cybersecurity
-          description: 10%
+        - name: Security & Privacy
+          description: 
           icon: user-secret
           icon_pack: fas
-        - name: Hong Kong
-          description: Our group is based in Hong Kong, which is a premier financial hub attracting global businesses. The city also boasts world-class universities, offering top-notch education and vast research opportunities, making it a magnet for international scholars.
-          icon: 🇭🇰
+        - name: Health Monitoring
+          description: 
+          icon: 🏥
           icon_pack: emoji
-        - name: Privacy for ML & FL
-          description: 10%
+        - name: Semantic + AI Communications
+          description: 
           icon: key
           icon_pack: fas 
         - name: Collaborative Distributed ML
-          description: 10%
+          description: 
           icon: 🤝
           icon_pack: emoji
     

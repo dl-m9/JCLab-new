@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Post-doctoral Fellow</b>
+role: <b>Postdocter @ CityU <br> PhD @ HNU & NTU</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
