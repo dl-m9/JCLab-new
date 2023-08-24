@@ -24,11 +24,9 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Faculty
-          - Researchers
           - Postdoctoral Researchers
           - Current PhD Students
           - Visitors
-          - Alumnis
 
       sort_by: Params.last_name
       sort_ascending: true
@@ -49,6 +47,7 @@ sections:
           # - Postdoctoral Researchers
           # - Visitors
           # - Alumnis
+        
 
       sort_by: Params.last_name
       sort_ascending: true

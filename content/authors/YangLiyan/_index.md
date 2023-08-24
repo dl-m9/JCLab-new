@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Liyan Yang is currently a PhD student in CityU, she is interested in crowdsourcing, auction design and game theory.</b>
+role: <b>PhD Student <br> MSc @ Southeast University <br> BSc @ Xidian University</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

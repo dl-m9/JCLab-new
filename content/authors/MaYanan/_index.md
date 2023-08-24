@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Yanan Ma is a PhD student in City University of Hong Kong. Her research interests include wireless communication, RIS, and vehicular network.</b>
+role: <b>PhD Student<br> MSc & BSc @ Dalian University of Technology </b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

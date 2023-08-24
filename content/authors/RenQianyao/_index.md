@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Qianyao REN is a PhD student in CityU with research interests in MIMO transmission and singal processing in the 5/6G communication system.</b>
+role: <b>PhD Student <br> MSc & BSc @ Harbin Institute of Technology</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

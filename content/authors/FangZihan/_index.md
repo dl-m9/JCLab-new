@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Zihan Fang is currently pursuing her PhD. degree at City University of Hong Kong. Her main research interests are Vehicle Networks, Mobile/Edge Computing and Connected and Autonomous Driving.</b>
+role: <b>PhD Student <br> MSc @ Fudan University <br> BSc @ Southeast University </b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
