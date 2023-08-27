@@ -27,9 +27,9 @@ social:
   - icon: envelope  # 邮箱
     icon_pack: fas
     link: 'mailto:huhbu@outlook.com'
-  - icon: twitter # Twitter
-    icon_pack: fab  
-    link: https://twitter.com/thoureality
+  # - icon: twitter # Twitter
+  #   icon_pack: fab  
+  #   link: https://twitter.com/thoureality
   # - icon: google-scholar  # google scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?user=dJgRKmwAAAAJ
@@ -42,17 +42,17 @@ social:
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
   #   link: files/cv.pdf
-  - icon: linkedin 
-    icon_pack: fab
-    link: https://www.linkedin.com/in/senkang-hu-3123681b5/
+  # - icon: linkedin 
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/senkang-hu-3123681b5/
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Artifical Intelligence 
   - Deep Learning
   - Computer Vision
   - Federated Learning
   - Edge Intelligence
+  - V2X
 
 # TODO:这块是自己的教育经历
 education:
@@ -60,9 +60,9 @@ education:
     - course: PhD in Computer Science
       institution: City University of Hong Kong, Hong Kong SAR
       year: 2023 - Now
-    - course: PhD in Computer Science
-      institution: University of Chinese Academy of Sciences, Beijing, China
-      year: 2022 - 2023
+    # - course: PhD in Computer Science
+    #   institution: University of Chinese Academy of Sciences, Beijing, China
+    #   year: 2022 - 2023
     - course: BSc in Electronic and Information Engineering 
       institution: Beijing Institute of Technology, Beijing, China
       year: 2018 - 2022
