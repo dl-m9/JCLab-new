@@ -60,9 +60,6 @@ education:
     - course: PhD in Computer Science
       institution: City University of Hong Kong, Hong Kong SAR
       year: 2023 - Now
-    # - course: PhD in Computer Science
-    #   institution: University of Chinese Academy of Sciences, Beijing, China
-    #   year: 2022 - 2023
     - course: BSc in Electronic and Information Engineering 
       institution: Beijing Institute of Technology, Beijing, China
       year: 2018 - 2022
