@@ -5,24 +5,49 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content: 
-      title: 
-        JC STEM Lab of Smart City
-      image:
-        filename: group.jpg
-      text: | 
-        <br>
-        <p>
-        The JC STEM Lab of Smart City was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a> in 2022 in Hong Kong, Our mission is to leverage vehicles to build a smarter city.  
-        </p>
-        
+
+  - block: markdown
+    content:
+      title: <p style="color:#000000; font-size:40pt"><b>JC STEM Lab of Smart City</b></p>
+      subtitle:
+      text: |
+        <p style="color:#000000; font-size:20pt">
+        <b>The JC STEM Lab of Smart City was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a> in 2022 in Hong Kong, Our mission is to leverage vehicles to build a smarter city.</b>  
+        </p> 
     design:
+      columns: '1'
       background:
-        gradient_start: '#0476D0'
-        gradient_end: '#D26085'
-        text_color_light: true
-        gradient_angle: 45
+        image:
+          filename: group_photo.jpg
+          filters:
+            brightness: 1
+          parallax: True
+          position: center
+          size: contain
+        text_color_light: False
+        
+          
+      css_class: fullscreen
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+  # - block: hero
+  #   content: 
+  #     title: 
+  #       JC STEM Lab of Smart City
+  #     image:
+  #       filename: group_photo.jpg
+  #     text: | 
+  #       <br>
+  #       <p>
+  #       The JC STEM Lab of Smart City was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a> in 2022 in Hong Kong, Our mission is to leverage vehicles to build a smarter city.  
+  #       </p>
+        
+  #   design:
+  #     background:
+  #       gradient_start: '#0476D0'
+  #       gradient_end: '#D26085'
+  #       text_color_light: true
+  #       gradient_angle: 45
 
   - block: features
     design:
@@ -155,12 +180,16 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image:
+  #         filename: group_photo.jpg
+  #     css_class: fullscreen
 ---
