@@ -18,7 +18,7 @@ sections:
       columns: '1'
       background:
         image:
-          filename: group_photo.jpg
+          filename: group2.jpg
           filters:
             brightness: 1
           parallax: True
@@ -100,32 +100,43 @@ sections:
       title: Latest News
       subtitle: 
       text: |-
-            <b>[01/18/2023]</b> 🔥🔥🔥 Congratulations to **Prof. Fang**, who has been elevated to <b><span style="color:#1565C0;"><a href="https://www.acm.org/media-center/2023/january/fellows-2022">  ACM Fellow</a>   </span></b>!!!
-            <br> <br>
-            <b>[08/05/2022]</b> 🔥🔥🔥 Congratulations to **Prof. Fang**, who will join the Department of Computer Science, City University of Hong Kong (CityU), as the **Chair Professor of Internet of Things**!!! 
-            <br> <br>
-            <b>[06/21/2022]</b> Congratulations to **Dr. Jianqing Liu**, our former member, who will join the Department of Computer Science, North Carolina State University (NC State), as an **assistant professor**!!! (6/21/2022) <br><br>
-            <b>[05/10/2022]</b> Congratulations to **Kaichen**, who has accepted an **assistant professor** position in the Department of Electrical and Computer Engineering at **Michigan Technological University**!!! <br><br>
-            <b>[05/05/2022]</b> Congratulations to **Linke**, our former member, who has been promoted to **Associate Professor** with tenure in the Department of Electrical and Computer Engineering at Clemson University!!!<br> <br>
-            <b>[03/29/2022]</b> Congratulations to **Xianhao**, who has accepted a **tenure-track Assistant Professor** position in the Department of Electrical and Electronic Engineering at **University of Hong Kong**!!! <br> <br>
-            
-            {{< spoiler text="Click to View More" >}}
-            
-            - <b>[04/30/2022]</b> Congratulations to **Rui Hu** (a PhD student of Dr. Yanmin Gong), who has accepted an **Assistant Professor** position at the Department of Computer Science and Engineering, **University of Nevada, Reno**!!!  <br> <br>
-            - <b>[04/25/2022]</b> Congratulations to **Yifang Guo** and **Tianxi Ji** (PhD students of Dr. Pan Li), who have accepted **tenure-track** **Assistant Professor** positions in the Department of Computer and Information Sciences at **Towson University** and the Department of Computer Science at **Texas Technological University**, respectively!!! Congratulations to Pan as well!<br> <br>
-            - <b>[04/01/2022]</b> Congratulations to **Yaodan**, who has accepted an **assistant professor** position in the Department of Electrical and Computer Engineering at **Idaho State University**!!!<br> <br> 
-            - <b>[02/02/2022]</b> Congratulations to **Yanmin** and **Yuanxiong**, our former members, who have been promoted to **Associate Professor** with tenure at University of Texas at San Antonio!!! <br> <br>
-            - <b>[11/11/2022]</b> Congratulations to **Haichuan (Ding)**, who has joined the School of Cyberspace Science and Technology, **Beijing Institute of Technology**, Beijing, China, as a **full professor**! <br> <br>
-            {{< /spoiler >}}
 
-    design:
-      columns: '2'
-      
-        
-        
-       
-      
+            
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Scrollable Content</title>
+                <style>
+                    .scrollable-content {
+                        height: 800px;
+                        overflow-y: scroll;
+                        # border: 1px solid #ccc;
+                        padding: 10px;
+                    }
+                </style>
+            </head>
+            <body>
 
+            <div class="scrollable-content">
+                <b>[01/18/2023]</b> 🔥🔥🔥 Congratulations to <b>Prof. Fang</b>, who has been elevated to <b><span style="color:#1565C0;"><a href="https://www.acm.org/media-center/2023/january/fellows-2022">  ACM Fellow</a>   </span></b>!!!
+              <br> <br>
+              <b>[08/05/2022]</b> 🔥🔥🔥 Congratulations to <b>Prof. Fang</b>, who will join the Department of Computer Science, City University of Hong Kong (CityU), as the <b>Chair Professor of Internet of Things</b>!!! 
+              <br> <br>
+              <b>[06/21/2022]</b> Congratulations to <b>Dr. Jianqing Liu</b>, our former member, who will join the Department of Computer Science, North Carolina State University (NC State), as an <b>assistant professor</b>!!! (6/21/2022) <br><br>
+              <b>[05/10/2022]</b> Congratulations to <b>Kaichen</b>, who has accepted an <b>assistant professor</b> position in the Department of Electrical and Computer Engineering at <b>Michigan Technological University</b>!!! <br><br>
+              <b>[05/05/2022]</b> Congratulations to <b>Linke</b>, our former member, who has been promoted to <b>Associate Professor</b> with tenure in the Department of Electrical and Computer Engineering at Clemson University!!!<br> <br>
+              <b>[03/29/2022]</b> Congratulations to <b>Xianhao</b>, who has accepted a <b>tenure-track Assistant Professor</b> position in the Department of Electrical and Electronic Engineering at <b>The University of Hong Kong</b>!!! <br> <br>
+
+              <b>[04/30/2022]</b> Congratulations to <b>Rui Hu</b> (a PhD student of Dr. Yanmin Gong), who has accepted an <b>Assistant Professor</b> position at the Department of Computer Science and Engineering, <b>University of Nevada, Reno</b>!!!  <br> <br>
+              <b>[04/25/2022]</b> Congratulations to <b>Yifang Guo</b> and <b>Tianxi Ji</b> (PhD students of Dr. Pan Li), who have accepted <b>tenure-track</b> <b>Assistant Professor</b> positions in the Department of Computer and Information Sciences at <b>Towson University</b> and the Department of Computer Science at <b>Texas Technological University</b>, respectively!!! Congratulations to Pan as well!<br> <br>
+              <b>[04/01/2022]</b> Congratulations to <b>Yaodan</b>, who has accepted an <b>assistant professor</b> position in the Department of Electrical and Computer Engineering at <b>Idaho State University</b>!!!<br> <br> 
+              <b>[02/02/2022]</b> Congratulations to <b>Yanmin</b> and <b>Yuanxiong</b>, our former members, who have been promoted to <b>Associate Professor</b> with tenure at University of Texas at San Antonio!!! <br> <br>
+              <b>[11/11/2022]</b> Congratulations to <b>Haichuan Ding</b>, who has joined the School of Cyberspace Science and Technology, <b>Beijing Institute of Technology<b>, Beijing, China, as a <b>full professor<b>! <br> <br>
+            </div>
+
+            </body>
+            </html>
     design:
       columns: '2'
       background:
@@ -141,24 +152,24 @@ sections:
       #   padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
       
-  - block: collection
-    content:
-      title: Latest News
-      subtitle: 
-      text: 
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: event
-    design:
-      view: showcase
-      columns: '2'
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle: 
+  #     text: 
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: event
+  #   design:
+  #     view: showcase
+  #     columns: '2'
   
   # - block: markdown
   #   content:

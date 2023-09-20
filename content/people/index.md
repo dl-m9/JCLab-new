@@ -7,7 +7,7 @@ type: landing
 sections:
   
   # - block: 
-  #   # id: about
+  #   id: about
   #   content: 
   #     title: <img src="http://www.fang.ece.ufl.edu/fang13.jpg" width="60%"> 
   #     subtitle: <b>Prof. FANG Yuguang<b><br>ACM Fellow, IEEE Fellow
@@ -16,7 +16,7 @@ sections:
         
   #   design:
   #     columns: '2'
-      # username: admin
+  #     username: admin
   - block: people
     content:
       title: Meet the Team
@@ -34,6 +34,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      # show_organizations: true
   - block: people
     content:
       title: Former Members
