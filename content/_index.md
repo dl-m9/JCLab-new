@@ -191,16 +191,16 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
   
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle:
-  #     text: |
-  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image:
-  #         filename: group_photo.jpg
-  #     css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5wafcppdeag&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script>
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: 
+      # css_class: fullscreen
 ---
