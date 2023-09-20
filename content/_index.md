@@ -123,7 +123,7 @@ sections:
               <br> <br>
               <b>[08/05/2022]</b> 🔥🔥🔥 Congratulations to <b>Prof. Fang</b>, who will join the Department of Computer Science, City University of Hong Kong (CityU), as the <b>Chair Professor of Internet of Things</b>!!! 
               <br> <br>
-              <b>[06/21/2022]</b> Congratulations to <b>Dr. Jianqing Liu</b>, our former member, who will join the Department of Computer Science, North Carolina State University (NC State), as an <b>assistant professor</b>!!! (6/21/2022) <br><br>
+              <b>[06/21/2022]</b> Congratulations to <b>Dr. Jianqing Liu</b>, our former member, who will join the Department of Computer Science, North Carolina State University (NC State), as an <b>assistant professor</b>!!! <br><br>
               <b>[05/10/2022]</b> Congratulations to <b>Kaichen</b>, who has accepted an <b>assistant professor</b> position in the Department of Electrical and Computer Engineering at <b>Michigan Technological University</b>!!! <br><br>
               <b>[05/05/2022]</b> Congratulations to <b>Linke</b>, our former member, who has been promoted to <b>Associate Professor</b> with tenure in the Department of Electrical and Computer Engineering at Clemson University!!!<br> <br>
               <b>[03/29/2022]</b> Congratulations to <b>Xianhao</b>, who has accepted a <b>tenure-track Assistant Professor</b> position in the Department of Electrical and Electronic Engineering at <b>The University of Hong Kong</b>!!! <br> <br>
