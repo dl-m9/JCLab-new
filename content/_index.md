@@ -8,12 +8,12 @@ sections:
 
   - block: markdown
     content:
-      title: <p style="color:#000000; font-size:40pt"><b>JC STEM Lab of Smart City</b></p>
+      title: <b>JC STEM Lab of Smart City</b>
       subtitle:
       text: |
-        <p style="color:#000000; font-size:20pt">
+       
         <b>The JC STEM Lab of Smart City was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a> in 2022 in Hong Kong, Our mission is to leverage vehicles to build a smarter city.</b>  
-        </p> 
+        
     design:
       columns: '1'
       background:
@@ -23,7 +23,7 @@ sections:
             brightness: 1
           parallax: True
           position: center
-          size: contain
+          size: coverhu
         text_color_light: False
         
           
