@@ -20,4 +20,7 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Old Webpage
+    url: https://winet.cs.cityu.edu.hk/
+    weight: 60
   
