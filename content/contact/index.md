@@ -11,9 +11,9 @@ sections:
       text: |-
         We are located in the main campus of City University of Hong Kong. Our old website is <a href="https://winet.cs.cityu.edu.hk/">here</a>.
       email: my.Fang@cityu.edu.hk
-      link: 'https://www.cs.cityu.edu.hk/~yugufang/'
-      phone: +852 3442-2596
-      Fax: +852 3442-0503
+      # link: 'https://www.cs.cityu.edu.hk/~yugufang/'
+      # phone: +852 3442-2596
+      # Fax: +852 3442-0503
       address:
         street: 83 Tat Chee Ave, 
         city: Kowloon Tong
