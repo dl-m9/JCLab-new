@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Postdoctor @ CityU <br> PhD & BSc @ USTC</b>
+role: <b>Postdoctor @ CityU <br> PhD & BSc @ University of Science and Technology of China</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
