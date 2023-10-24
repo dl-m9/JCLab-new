@@ -8,11 +8,11 @@ sections:
 
   - block: markdown
     content:
-      title: <b>Wireless Intelligence and Networked Things Lab (WINET)</b>
+      title: <b>Wireless Intelligence and Networked Things Laboratory (WINET)</b>
       subtitle:
       text: |
        
-        <b>The Wireless Intelligence and Networked Things Lab (WINET) was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. Yuguang "Micheal" Fang</a> in 2000 in University of Florida and moved to CityU Hong Kong in 2022. Our mission is to develop technologies for IoT to improve people's quality of life.</b>  
+        <b>The Wireless Intelligence and Networked Things Laboratory (WINET) was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. Yuguang "Micheal" Fang</a> in 2000 in University of Florida and moved to <a href="https://www.cityu.edu.hk/">City University of  Hong Kong</a> in 2022. Our mission is to develop technologies for IoT to improve people's quality of life.</b>  
         
     design:
       columns: '1'
