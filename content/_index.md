@@ -8,11 +8,11 @@ sections:
 
   - block: markdown
     content:
-      title: <b>JC STEM Lab of Smart City</b>
+      title: <b>Wireless Intelligence and Networked Things Lab (WINET)</b>
       subtitle:
       text: |
        
-        <b>The JC STEM Lab of Smart City was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. FANG Yuguang</a> in 2022 in Hong Kong, Our mission is to leverage vehicles to build a smarter city.</b>  
+        <b>The Wireless Intelligence and Networked Things Lab (WINET) was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. Yuguang "Micheal" Fang</a> in 2000 in University of Florida and moved to CityU Hong Kong in 2022. Our mission is to develop technologies for IoT to improve people's quality of life.</b>  
         
     design:
       columns: '1'
