@@ -78,8 +78,12 @@ user_groups:
   # - Alumnis
   # - Postdoctors
   # - Faculty
+  # - Graduated PhD Students
+  # - Former Postdoctoral Researchers
+  # - Former Visitors
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
-<p style="text-align:justify"> Yuguang “Michael” Fang received an MS degree in Mathematics from Qufu Normal University, Shandong, China in 1987, a PhD degree in Systems, Control and Industrial Engineering from Case Western Reserve University in 1994, and a PhD degree in Electrical and Computer Systems from Boston University in 1997. He joined the Department of Electrical and Computer Engineering at New Jersey Institute of Technology in 1998 as an assistant professor and then moved to the Department of Electrical and Computer Engineering at University of Florida in 2000 as an assistant professor, then was promoted to associate professor in 2003, full professor in 2005, and distinguished professor in 2019, respectively. Since August 2022, he has been the Chair Professor of Internet of Things with the Department of Computer Science at City University of Hong Kong. He is a Global STEM Scholar recruited through Hong Kong Global STEM Professorship Scheme.
+<!-- <p style="text-align:justify">  -->
+Yuguang “Michael” Fang received an MS degree in Mathematics from Qufu Normal University, Shandong, China in 1987, a PhD degree in Systems, Control and Industrial Engineering from Case Western Reserve University in 1994, and a PhD degree in Electrical and Computer Systems from Boston University in 1997. He joined the Department of Electrical and Computer Engineering at New Jersey Institute of Technology in 1998 as an assistant professor and then moved to the Department of Electrical and Computer Engineering at University of Florida in 2000 as an assistant professor, then was promoted to associate professor in 2003, full professor in 2005, and distinguished professor in 2019, respectively. Since August 2022, he has been the Chair Professor of Internet of Things with the Department of Computer Science at City University of Hong Kong. He is a Global STEM Scholar recruited through Hong Kong Global STEM Professorship Scheme.
 

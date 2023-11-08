@@ -4,7 +4,7 @@ title: Prof. CHEN Xianhao
 
 # TODO:Full name (for SEO) 必填
 first_name: Xianhao   
-last_name: Chen
+last_name: aac
 
 # 不用管这个
 authors:
@@ -76,6 +76,7 @@ user_groups:
   # - Alumnis
   # - Postdoctors
   - Faculty
+  - Graduated PhD Students
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

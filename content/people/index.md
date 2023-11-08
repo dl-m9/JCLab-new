@@ -44,9 +44,9 @@ sections:
           # - Principal Investigators
           # - Faculty
           # - Researchers
-          # - Current PhD Students
-          # - Postdoctoral Researchers
-          # - Visitors
+          - Graduated PhD Students
+          - Former Postdoctoral Researchers
+          - Former Visitors
           # - Alumnis
         
 
