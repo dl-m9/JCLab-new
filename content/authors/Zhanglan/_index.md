@@ -58,12 +58,12 @@ education:
     - course: PhD in Electrical and Computer Engineering
       institution: University of Florida
       year: 2014 - 2019
-    # - course: MSc in Information Science 
-    #   institution: University of Science and Technology of China
-    #   year: 2013 - 2016
-    # - course: BSc in Information Science
-    #   institution: University of Science and Technology of China
-    #   year: 2009 - 2013
+    - course: MSc in Electronic Engineering
+      institution: University of Electronic Science and Technology of China
+      year: 2013 - 2016
+    - course: BSc in Electronic Engineering
+      institution: University of Electronic Science and Technology of China
+      year: 2009 - 2013
 
 # TODO:选一个自己的身份
 user_groups:
