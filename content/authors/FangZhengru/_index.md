@@ -34,7 +34,7 @@ social:
     link: https://scholar.google.com/citations?user=yggQMJMAAAAJ&hl
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
-    link: https://www.researchgate.net/profile/Zhengru-Fang
+    link: http://www.zhengrufang.com/index.html
 
 # TODO:这块是自己的研究兴趣
 interests:
