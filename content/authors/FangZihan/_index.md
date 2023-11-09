@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Ms. FANG Zihan  
+title: Ms. FANG, Zihan  
 
 # TODO:Full name (for SEO) 必填
 first_name: Zihan   

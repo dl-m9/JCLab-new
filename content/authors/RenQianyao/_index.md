@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Mr. REN Qianyao  
+title: Mr. REN, Qianyao  
 
 # TODO:Full name (for SEO) 必填
 first_name: Qianyao   

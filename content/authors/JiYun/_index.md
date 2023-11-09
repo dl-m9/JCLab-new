@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Ms. JI Yun  
+title: Ms. JI, Yun  
 
 # TODO:Full name (for SEO) 必填
 first_name: Yun   

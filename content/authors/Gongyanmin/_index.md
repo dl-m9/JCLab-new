@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Dr. Yanmin Gong 
+title: Dr. GONG, Yanmin  
 
 # TODO:Full name (for SEO) 必填
 first_name: Yanmin   

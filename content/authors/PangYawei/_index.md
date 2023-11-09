@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Dr. PANG Yawei
+title: Dr. PANG, Yawei
 
 # TODO:Full name (for SEO) 必填
 first_name: lan   

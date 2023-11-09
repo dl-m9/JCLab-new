@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Dr. DING Haichuan
+title: Dr. DING, Haichuan
 
 # TODO:Full name (for SEO) 必填
 first_name: lan   

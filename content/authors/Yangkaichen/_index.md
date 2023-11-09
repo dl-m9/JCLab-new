@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Dr. YANG Kaichen
+title: Dr. YANG, Kaichen
 
 # TODO:Full name (for SEO) 必填
 first_name: kaichen   

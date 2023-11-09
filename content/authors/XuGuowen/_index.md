@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Dr. XU Guowen 
+title: Dr. XU, Guowen 
 
 # TODO:Full name (for SEO) 必填
 first_name: Guowen  

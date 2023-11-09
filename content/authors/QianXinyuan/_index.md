@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Mr. QIAN Xinyuan  
+title: Mr. QIAN, Xinyuan  
 
 # TODO:Full name (for SEO) 必填
 first_name: Xinyuan  
