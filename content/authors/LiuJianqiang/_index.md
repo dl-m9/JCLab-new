@@ -43,6 +43,9 @@ social:
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
   #   link: files/cv.pdf
+  - icon: linkedin 
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jianqingliu/
 
 # TODO:这块是自己的研究兴趣
 interests:

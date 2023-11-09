@@ -4,7 +4,7 @@ title: Dr. GONG, Yanmin
 
 # TODO:Full name (for SEO) 必填
 first_name: Yanmin   
-last_name: Gong
+last_name: aah
 
 # 不用管这个
 authors:

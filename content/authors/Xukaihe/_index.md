@@ -4,7 +4,7 @@ title: Dr. XU, Kaihe
 
 # TODO:Full name (for SEO) 必填
 first_name: Kaihe   
-last_name: Xu
+last_name: aaj
 
 # 不用管这个
 authors:
@@ -43,6 +43,9 @@ social:
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
   #   link: files/cv.pdf
+  - icon: linkedin 
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kaihe-xu-93531166/
 
 # TODO:这块是自己的研究兴趣
 interests:

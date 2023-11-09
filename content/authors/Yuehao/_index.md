@@ -4,7 +4,7 @@ title: Dr. YUE, Hao
 
 # TODO:Full name (for SEO) 必填
 first_name: Hao   
-last_name: Yue
+last_name: aai
 
 # 不用管这个
 authors:
