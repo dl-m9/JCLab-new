@@ -1,8 +1,7 @@
 ---
-# TODO:Display name 必填
-title: Dr. ZHANG, Lan
+# TODO:Display name 必填，格式[Title如Dr.，visiting可能没有，注意统一最高是Dr. 而不是Prof.] [全大写的Last name][, ][首字母大写的Last name]
 
-# TODO:Full name (for SEO) 必填
+# TODO:Full name (for SEO) 必填，这是用来排序的，first name就填真实的名，last_name一定按照excel填写
 first_name: lan   
 last_name: aad
 
@@ -13,7 +12,7 @@ authors:
 # 不变
 superuser: false
 
-# TODO:这里可以简单介绍下自己 必填
+# TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
 role: <b>Assistant Professor <br> Michigan Technological University, USA</b>
  
 # TODO:Organizations/Affiliations 必填
@@ -23,7 +22,7 @@ organizations:
   - name: Homepage  # 写自己的主页链接，如果没有则注释掉
     url: https://sites.google.com/view/lan-zhang/home
 
-# TODO:这块可以附上自己的链接，社交媒体，邮箱，google scholar, CV等，不想要的注释掉即可
+# TODO:Old page的信息可能不全了，需要大家自己在google找一下信息。需要加上的信息主要包含email、google scholar、个人主页、linkedin
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
@@ -46,7 +45,7 @@ social:
   - icon: linkedin 
     icon_pack: fab
     link: https://www.linkedin.com/in/lan-zhang-4a0924197/
-# TODO:这块是自己的研究兴趣，均首字母大写
+# TODO:这块是自己的研究兴趣，均所有单词首字母大写
 interests:
   - Wireless Communications
   - Distributed Machine Learning
@@ -54,7 +53,7 @@ interests:
   - Internet-of-Things (IoT)
   - Cyber-Physical Systems (CPS)
 
-# TODO:这块是自己的教育经历
+# TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
@@ -67,7 +66,7 @@ education:
       institution: University of Electronic Science and Technology of China
       year: 2009 - 2013
 
-# TODO:选一个自己的身份
+# TODO:选一个身份，取消注释
 user_groups:
   # - Principal Investigators
   # - Researchers
@@ -82,5 +81,6 @@ user_groups:
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
+# 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我
 <!-- <p style="text-align:justify">  -->
 Hi, I am Lan. I am an assistant professor at the Department of ECE, and an affiliated assistant professor at the Department of CS and BME, Michigan Technological University (MTU). My research interest spans the area of wireless communications, distributed machine learning, cybersecurity, Internet-of-Things (IoT), and cyber-physical systems (CPS). I received my Ph.D. degree from the University of Florida (UF) under the supervision of Dr. Yuguang Fang.
