@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填，格式[Title如Dr.，visiting可能没有，注意统一最高是Dr. 而不是Prof.] [全大写的Last name][, ][首字母大写的Last name]
-
+title: Dr. ZHANG, Lan
 # TODO:Full name (for SEO) 必填，这是用来排序的，first name就填真实的名，last_name一定按照excel填写
 first_name: lan   
 last_name: aad
@@ -81,6 +81,6 @@ user_groups:
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
-# 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我
+<!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
 Hi, I am Lan. I am an assistant professor at the Department of ECE, and an affiliated assistant professor at the Department of CS and BME, Michigan Technological University (MTU). My research interest spans the area of wireless communications, distributed machine learning, cybersecurity, Internet-of-Things (IoT), and cyber-physical systems (CPS). I received my Ph.D. degree from the University of Florida (UF) under the supervision of Dr. Yuguang Fang.
