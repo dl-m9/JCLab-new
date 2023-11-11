@@ -46,13 +46,13 @@ social:
   - icon: linkedin 
     icon_pack: fab
     link: https://www.linkedin.com/in/lan-zhang-4a0924197/
-# TODO:这块是自己的研究兴趣
+# TODO:这块是自己的研究兴趣，均首字母大写
 interests:
-  - wireless communications
-  - distributed machine learning
-  - cybersecurity
+  - Wireless Communications
+  - Distributed Machine Learning
+  - Cybersecurity
   - Internet-of-Things (IoT)
-  - and cyber-physical systems (CPS)
+  - Cyber-Physical Systems (CPS)
 
 # TODO:这块是自己的教育经历
 education:
@@ -83,12 +83,4 @@ user_groups:
 <!-- TODO:写自己的Biography -->
 # Biography
 <!-- <p style="text-align:justify">  -->
-Hi, I am Lan. I am an assistant professor at the Department of ECE, and an affiliated assistant professor at the Department of CS and BME, Michigan Technological University (MTU). 
-
-My research interest spans the area of wireless communications, distributed machine learning, cybersecurity, Internet-of-Things (IoT), and cyber-physical systems (CPS). 
-
-I received my Ph.D. degree from the University of Florida (UF) under the supervision of Dr. Yuguang Fang.
-
-I am looking for highly motivated Ph.D. students who are interested in solving real-world machine learning, cyber-physical systems, wireless communications, and cybersecurity challenges (full financial support as RA). If interested, please send me your CV, transcript(s), GRE, TOEFL (international applicants only) and sample publications if any. 
-
-For students at Michigan Tech, multiple paid part-time and volunteer research assistant positions are available. If you are interested, please send me your CV and transcripts (unofficial copies are acceptable).
+Hi, I am Lan. I am an assistant professor at the Department of ECE, and an affiliated assistant professor at the Department of CS and BME, Michigan Technological University (MTU). My research interest spans the area of wireless communications, distributed machine learning, cybersecurity, Internet-of-Things (IoT), and cyber-physical systems (CPS). I received my Ph.D. degree from the University of Florida (UF) under the supervision of Dr. Yuguang Fang.
