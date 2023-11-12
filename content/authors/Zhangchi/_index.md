@@ -30,9 +30,9 @@ social:
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar  # google scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=Umj-GRAAAAAJ&hl=en
+  # - icon: google-scholar  # google scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=Umj-GRAAAAAJ&hl=en
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
     link: https://lfn.ustc.edu.cn/2021/0428/c25852a483266/page.htm
