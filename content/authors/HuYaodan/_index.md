@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Assistant Professor <br> Idaho State University, USA</b>
+role: <b>Assistant Professor <br> Idaho State University, USA <br>(Supervised by Shuo Wang and Yuguang Fang)</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -46,7 +46,8 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - security and privacy of cyber-physical systems
+  - Security and Privacy
+  - Cyber-Physical Systems
 
 # TODO:这块是自己的教育经历
 education:
