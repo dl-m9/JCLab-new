@@ -4,7 +4,7 @@ title: Dr. LI, Pan
 
 # TODO:Full name (for SEO) 必填
 first_name: Pan   
-last_name: Li
+last_name: aau
 
 # 不用管这个
 authors:
