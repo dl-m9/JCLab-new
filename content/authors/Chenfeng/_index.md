@@ -13,8 +13,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>
-VP Analytics Developer<br>Morgan Stanley, USA</b>
+role: <b>VP Analytics Developer<br>Morgan Stanley, USA</b>
  
 # TODO:Organizations/Affiliations 必填
 

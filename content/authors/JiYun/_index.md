@@ -69,11 +69,11 @@ user_groups:
   # - Visitors
   # - Researchers
   # - PhDs
-  - Visitors
+  - Visiting Students
   # - Alumni
   # - Postdoctor
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
 
-<p style="text-align:justify"> Yun Ji received the B.S. degree in Communication Engineering from Lanzhou University, Lanzhou, China, in 2020. She is currently pursuing the Ph.D.degree with the Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. Her research interests include federated learning and wireless communication.
+Yun Ji received the B.S. degree in Communication Engineering from Lanzhou University, Lanzhou, China, in 2020. She is currently pursuing the Ph.D.degree with the Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. Her research interests include federated learning and wireless communication.

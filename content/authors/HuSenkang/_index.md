@@ -48,11 +48,10 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Deep Learning
   - Computer Vision
-  - Federated Learning
-  - Edge Intelligence
-  - V2X
+  - Collaborative Perception
+  - Connected and Autonomous Vehicles
+  - Autonomous Driving Security
 
 # TODO:这块是自己的教育经历
 education:

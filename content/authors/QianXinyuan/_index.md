@@ -77,7 +77,7 @@ user_groups:
   #- Principal Investigators
   # - Researchers
   # - PhDs
-  - Visitors
+  - Visiting Students
   # - Alumni
   # - Postdoctor
 ---
