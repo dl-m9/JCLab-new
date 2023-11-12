@@ -41,10 +41,7 @@ social:
   #   link: https://www.github.com/
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
-  #   link: files/cv.pdf
-  - icon: linkedin 
-    icon_pack: fab
-    link: https://www.linkedin.com/in/lan-zhang-4a0924197/
+
 # TODO:这块是自己的研究兴趣，均所有单词首字母大写
 interests:
   - Passive Sensing Networks
@@ -84,4 +81,4 @@ user_groups:
 # Biography
 <!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
-Dr. Xiaoxia Huang received her Bachelor's and Master's degrees in Electronic and Information Engineering from Huazhong University of Science and Technology in 2000 and 2002, respectively. She graduated from the University of Florida in 2007 with a Ph.D. in Electrical and Computer Engineering. Since 2008, she has held various positions at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, including Assistant Researcher, Associate Researcher, and Researcher. In 2018, she joined the School of Electronics and Communication Engineering at Sun Yat-sen University. She has co-authored two academic books and published over 70 scholarly papers in international journals and conferences on wireless networks and communications, with citations exceeding a thousand (Google Scholar). Since 2013, she has been an editorial board member of the IEEE Transactions on Vehicular Technology and served on the Technical Program Committee for more than ten international conferences, including the CCF A-category conference INFOCOM from 2012 to 2020 and C-category conferences such as IEEE GLOBECOM from 2011 to 2019, ICC from 2011 to 2018, WCNC from 2011 to 2014, and WASA from 2013 to 2017. She has been recognized as a leading young talent in the Guangdong Special Support Program for Technological Innovation and a member of the Youth Innovation Promotion Association, Chinese Academy of Sciences.
+Dr. Xiaoxia Huang received her Bachelor's and Master's degrees in Electronic and Information Engineering from Huazhong University of Science and Technology in 2000 and 2002, respectively. She graduated from the University of Florida in 2007 with a Ph.D. in Electrical and Computer Engineering. Since 2008, he has worked as an assistant researcher, associate researcher and researcher in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. In 2018, she joined the School of Electronics and Communication Engineering at Sun Yat-sen University. She has co-authored two academic books and published over 70 scholarly papers in international journals and conferences on wireless networks and communications, with citations exceeding a thousand (Google Scholar). Since 2013, she has been an editorial board member of the IEEE Transactions on Vehicular Technology and served on the Technical Program Committee for more than ten international conferences, including the CCF A-category conference INFOCOM from 2012 to 2020 and C-category conferences such as IEEE GLOBECOM from 2011 to 2019, ICC from 2011 to 2018, WCNC from 2011 to 2014, and WASA from 2013 to 2017. She has been recognized as a leading young talent in the Guangdong Special Support Program for Technological Innovation and a member of the Youth Innovation Promotion Association, Chinese Academy of Sciences.
