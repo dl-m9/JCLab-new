@@ -26,7 +26,7 @@ sections:
           - Faculty
           - Postdoctoral Researchers
           - Current PhD Students
-          - Visitors
+          - Visiting Students
 
       sort_by: Params.last_name
       sort_ascending: true
