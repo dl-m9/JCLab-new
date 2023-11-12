@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Prof. LI, Pan
+title: Dr. LI, Pan
 
 # TODO:Full name (for SEO) 必填
 first_name: Pan   
