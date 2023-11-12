@@ -1,6 +1,6 @@
 ---
 # Display name 必填
-title: Prof. FANG, Yuguang  
+title: Dr. FANG, Yuguang  
 
 # Full name (for SEO) 必填
 first_name: Yuguang   

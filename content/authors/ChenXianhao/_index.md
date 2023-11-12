@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Prof. CHEN, Xianhao
+title: Dr. CHEN, Xianhao
 
 # TODO:Full name (for SEO) 必填
 first_name: Xianhao   
