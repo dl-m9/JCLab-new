@@ -75,6 +75,5 @@ user_groups:
 # Biography
 <!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
-I currently work at the Applied Machine Learning division at Apple Inc.
 
-Prior to joining Apple, I was a Research Staff Member in the Cloud System Analytics Research Department at IBM Research. My research interests include statistical modeling and analysis, optimization, machine learning, big data technologies, and their applications in cloud environments for efficient resource allocation and management. I obtained my Ph.D. degree in the University of Florida.
+I currently work at the Applied Machine Learning division at Apple Inc. Prior to joining Apple, I was a Research Staff Member in the Cloud System Analytics Research Department at IBM Research. My research interests include statistical modeling and analysis, optimization, machine learning, big data technologies, and their applications in cloud environments for efficient resource allocation and management. I obtained my Ph.D. degree in the University of Florida.
