@@ -82,6 +82,7 @@ user_groups:
 # Biography
 <!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
+
 **Academic: **
 
 Dr. Linke Guo received the BE degree in electronic information science and technology from the Beijing University of Posts and Telecommunications in 2008. He received the MS and PhD degrees in electrical and computer engineering from the University of Florida in 2011 and 2014, respectively. From August 2014 to August 2019, he was an assistant professor at the Department of Electrical and Computer Engineering, Binghamton University, State University of New York. Starting from August 2019, he has been an assistant professor with Department of Electrical and Computer Engineering, Clemson University.
