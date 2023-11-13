@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Associate Professor <br>The University of Texas at San Antonio, USA</b>
+role: <b>Associate Professor <br>Department of Information Systems and Cyber Security, The University of Texas at San Antonio, USA</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:

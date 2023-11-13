@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Founder<br> Faceless project and Mercury's wings</b>
+role: <b>Founder<br> Faceless Project and Mercury's Wings</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:
