@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Lecturer <br> Department of IoT, <br>School of Computer and Software, <br> Nanjing University of Information Science and Technology, Nanjing, China</b>
+role: <b>Lecturer <br> Department of IoT, Nanjing University of Information Science and Technology, Nanjing, China</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
