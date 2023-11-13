@@ -46,14 +46,14 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Wireless Networks; 
-  #- Mobile/Edge Computing; 
-  #- Security/Privacy/Cybersecurity; 
-  - Wireless AI/Machine Learning/Federated Learning; 
-  - Internet of Things;
-  #- Cyber-physical Systems; 
-  #- 5G/6G and Beyond; 
-  #- Connected and Autonomous Driving; 
+  - Wireless Networks
+  #- Mobile/Edge Computing;
+  #- Security/Privacy/Cybersecurity
+  - Wireless AI/Machine Learning/Federated Learning
+  - Internet of Things
+  #- Cyber-physical Systems
+  #- 5G/6G and Beyond
+  #- Connected and Autonomous Driving
   #- Smart and Connected Health, Smart Grid
 
 # TODO:这块是自己的教育经历

@@ -46,10 +46,10 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Wireless Communication; 
-  - Signal Processing; 
-  - Reconfigurable Intelligent Surface (RIS); 
-  - Vehicular Network; 
+  - Wireless Communication
+  - Signal Processing
+  - Reconfigurable Intelligent Surface (RIS)
+  - Vehicular Network
 
 
 # TODO:这块是自己的教育经历

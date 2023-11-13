@@ -51,8 +51,8 @@ social:
 # TODO:这块是自己的研究兴趣
 interests:
   - Crowdsourcing
-  - Auction design
-  - Game theory
+  - Auction Design
+  - Game Theory
 
 # TODO:这块是自己的教育经历
 education:

@@ -48,11 +48,10 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Federated learning; 
-  - Mobile/Edge Computing; 
-  - Wireless communication; 
-  - Internet of Things;
-
+  - Federated Learning
+  - Mobile/Edge Computing
+  - Wireless Communication
+  - Internet of Things
 
 # TODO:这块是自己的教育经历
 education:

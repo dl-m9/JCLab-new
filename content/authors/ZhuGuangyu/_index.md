@@ -48,9 +48,9 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Machine learning
-  - Wireless networks
-  - Edge computing
+  - Machine Learning
+  - Wireless Networks
+  - Edge Computing
 
 # TODO:这块是自己的教育经历
 education:

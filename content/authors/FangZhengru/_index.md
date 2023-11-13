@@ -28,7 +28,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'mailto:zhefang4@cityu.edu.hk'
+    link: 'mailto:zhefang4-c@my.cityu.edu.hk'
   - icon: google-scholar  # google scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=yggQMJMAAAAJ&hl

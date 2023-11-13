@@ -48,11 +48,11 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Co-design of scheduling and control;
-  - Age of Task (AoT);
-  - Resource Allocation;
-  - Network Slicing;
-  - Edge-Assisted Industrial IoT sysetms
+  - Co-Design of Scheduling and Control
+  - Age of Task (AoT)
+  - Resource Allocation
+  - Network Slicing
+  - Edge-Assisted Industrial IoT Systems
 
 # TODO:这块是自己的教育经历
 education:

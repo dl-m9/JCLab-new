@@ -46,9 +46,9 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - 5G/6G and Beyond; 
-  - Wireless Networks; 
-  - Wireless AI/Machine Learning; 
+  - 5G/6G and Beyond
+  - Wireless Networks
+  - Wireless AI/Machine Learning
 
 # TODO:这块是自己的教育经历
 education:
