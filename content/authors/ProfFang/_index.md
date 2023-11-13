@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # 这里可以简单介绍下自己，必填
-role: <b style="color:#1565C0;"> Lab Director</b><b> <br> Chair Professor of IoT <br>FACM, FIEEE, FAAAS</b>
+role: <b style="color:#1565C0;"> Lab Director</b><b> <br> Chair Professor of IoT<br>Department of Computer Science
+, City University of Hong Kong, Hong Kong, China<br>FACM, FIEEE, FAAAS</b>
 
 # Organizations/Affiliations 必填
 organizations:
