@@ -14,8 +14,7 @@ authors:
 superuser: false
 
 # 这里可以简单介绍下自己，必填
-role: <b style="color:#1565C0;"> Lab Director</b><b> <br> Chair Professor of IoT<br>Department of Computer Science
-, City University of Hong Kong, Hong Kong, China<br>FACM, FIEEE, FAAAS</b>
+role: <b style="color:#1565C0;"> Lab Director</b> <b> <br> Chair Professor of IoT<br>Department of Computer Science<br>City University of Hong Kong <br> FACM, FIEEE, FAAAS </b>
 
 # Organizations/Affiliations 必填
 organizations:
@@ -27,16 +26,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
-#   - Wireless Networks; 
-#   - Mobile/Edge Computing; 
-#   - Security/Privacy/Cybersecurity; 
-#   - Wireless AI/Machine Learning/Federated Learning; 
-#   - Internet of Things;
-#   - Cyber-physical Systems; 
-#   - 5G/6G and Beyond; 
-#   - Connected and Autonomous Driving; 
-#   - Smart and Connected Health, Smart Grid
+interests:
+  - Wireless Networks
+  - Mobile/Edge Computing
+  - Security/Privacy/Cybersecurity
+  - Wireless AI
+  - Machine Learning
+  - Federated Learning
+  - Internet of Things
+  - Cyber-physical Systems
+  - 5G/6G and Beyond
+  - Connected and Autonomous Driving
+  - Smart and Connected Health
+  - Smart Grid
 
 
 # education:
@@ -94,13 +96,17 @@ user_groups:
 ---
 # Biography
 
-Yuguang “Michael” Fang received an MS degree in Mathematics from Qufu Normal University, Shandong, China in 1987, a PhD degree in Systems, Control and Industrial Engineering from Case Western Reserve University in 1994, and a PhD degree in Electrical and Computer Systems from Boston University in 1997. He joined the Department of Electrical and Computer Engineering at New Jersey Institute of Technology in 1998 as an assistant professor and then moved to the Department of Electrical and Computer Engineering at University of Florida in 2000 as an assistant professor, then was promoted to associate professor in 2003, full professor in 2005, and distinguished professor in 2019, respectively. Since August 2022, he has been the Chair Professor of Internet of Things with the Department of Computer Science at City University of Hong Kong. He is a Global STEM Scholar recruited through Hong Kong Global STEM Professorship Scheme.
+Yuguang “Michael” Fang received an MS degree in Mathematics from <a href="https://www.qfnu.edu.cn/">Qufu Normal University</a>, Shandong, China in 1987, a PhD degree in Systems, Control and Industrial Engineering from <a href="https://case.edu/">Case Western Reserve University</a> in 1994, and a PhD degree in Electrical and Computer Systems from <a href="https://www.bu.edu/">Boston University</a> in 1997. He joined the Department of Electrical and Computer Engineering at <a href='https://www.njit.edu/'>New Jersey Institute of Technology</a> in 1998 as an assistant professor and then moved to the Department of Electrical and Computer Engineering at <a href='https://www.ufl.edu/'>University of Florida</a> in 2000 as an assistant professor, then was promoted to associate professor in 2003, full professor in 2005, and distinguished professor in 2019, respectively. Since August 2022, he has been the Chair Professor of Internet of Things with the Department of Computer Science at <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a>. He is a Global STEM Scholar recruited through Hong Kong Global STEM Professorship Scheme.
 
-## Research Interests
-- Wireless Networks; 
-- Mobile/Edge Computing; 
-- Security/Privacy/Cybersecurity; 
-- Wireless AI/Machine Learning/Federated Learning; 
-- Internet of Things, Cyber-physical Systems;
-- 5G/6G and Beyond; Connected and Autonomous Driving; 
-- Smart and Connected Health, Smart Grid
+Dr. Fang received many awards including the US NSF CAREER Award (2001), US ONR Young Investigator Award (2002), 2018 IEEE Vehicular Technology Outstanding Service Award, IEEE Communications Society AHSN Technical Achievement Award (2019), CISTC Technical Recognition Award (2015), and WTC Recognition Award (2014), and 2010-2011 UF Doctoral Dissertation Advisor/Mentoring Award. He held multiple professorships including the Changjiang Scholar Chair Professorship (2008-2011), Tsinghua University Guest Chair Professorship (2009-2012), University of Florida Foundation Preeminence Term Professorship (2019-2022), and University of Florida Research Foundation Professorship (2017-2020, 20062009). He served as the Editor-in-Chief of IEEE Transactions on Vehicular Technology (2013-2017) and IEEE Wireless Communications (2009-2012) and serves/served on several editorial boards of journals including Proceedings of the IEEE (2018-present), ACM Computing Surveys (2017-present), ACM Transactions on Cyber-Physical Systems (2020-present), IEEE Transactions on Mobile Computing (2003-2008, 2011-2016, 2019-present), IEEE Transactions on Communications (2000-2011), and IEEE Transactions on Wireless Communications (2002-2009). He served as the Technical Program CoChair of IEEE INFOCOM’2014. He is a Member-at-Large of the Board of Governors of IEEE Communications Society (2022-2024) and the Director of Magazines of IEEE Communications Society (2018-2019). He is a fellow of ACM, IEEE, and AAAS.
+
+<!-- ## Research Interests
+- Wireless Networks
+- Mobile/Edge Computing
+- Security/Privacy/Cybersecurity
+- Wireless AI/Machine Learning/Federated Learning
+- Internet of Things, Cyber-physical Systems
+- 5G/6G and Beyond
+- Connected and Autonomous Driving
+- Smart and Connected Health
+- Smart Grid -->
