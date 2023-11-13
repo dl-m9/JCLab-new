@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Assistant Professor <br> Michigan Technological University, USA</b>
+role: <b>Assistant Professor <br> Department of Electrical and Computer Engineering, <br>Michigan Technological University, USA</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:

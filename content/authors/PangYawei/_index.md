@@ -3,7 +3,7 @@
 title: Dr. PANG, Yawei
 
 # TODO:Full name (for SEO) 必填
-first_name: lan   
+first_name: Yawei   
 last_name: aae
 
 # 不用管这个
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Lecturer <br> Nanjing University of Information Science and Technology, Nanjing, China</b>
+role: <b>Lecturer <br> Department of IoT, <br>School of Computer and Software, <br> Nanjing University of Information Science and Technology, Nanjing, China</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -45,11 +45,11 @@ social:
   #   link: files/cv.pdf
 
 # TODO:这块是自己的研究兴趣
-interests:
-  - intelligent communication and network
-  - communication big data processing and application
-  - communication network resource management and optimization
-  - machine learning
+Interests:
+  - Intelligent Communication and Network
+  - Communication Big Data Processing and Application
+  - Communication Network Resource Management and Optimization
+  - Machine Learning
 
 # TODO:这块是自己的教育经历
 education:

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Associate Professor <br>  The University of Texas at San Antonio, USA</b>
+role: <b>Associate Professor <br>  Department of Electrical and Computer Engineering,<br>The University of Texas at San Antonio, USA</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -46,10 +46,10 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Security and privacy
-  - Machine learning
-  - Edge computing
-  - Wireless networking
+  - Security and Privacy
+  - Machine Learning
+  - Edge Computing
+  - Wireless Networking
 
 # TODO:这块是自己的教育经历
 education:

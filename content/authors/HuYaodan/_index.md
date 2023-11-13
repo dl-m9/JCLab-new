@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Assistant Professor <br> Idaho State University, USA <br>(Supervised by Shuo Wang and Yuguang Fang)</b>
+role: <b>Assistant Professor <br> Department of Electrical and Computer Engineering, <br>Idaho State University, USA <br>(Supervised by Shuo Wang and Yuguang Fang)</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

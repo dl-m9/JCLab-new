@@ -46,10 +46,10 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Wireless Networks
-  - Mobile/Edge Computing
-  - Vehicular networking
-  - Incentive design for wireless networks
+  - Edge Intelligence
+  - Machine Learning for Wireless Networking
+  - Vehicular Networking
+  - Incentive Design for Wireless Networks
 
  
 

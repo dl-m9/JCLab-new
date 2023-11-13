@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Professor <br>  Beijing Institute of Technology, Beijing, China</b>
+role: <b>Professor <br>  School of Cyberspace Science and Technology, <br>Beijing Institute of Technology, Beijing, China</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

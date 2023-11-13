@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Assistant Professor <br>  North Carolina State University, USA</b>
+role: <b>Assistant Professor <br>  Department of Computer Science, <br>North Carolina State University, USA</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -49,9 +49,9 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - security
-  - data privacy
-  - communication & networking 
+  - Security
+  - Data Privacy
+  - Communication & Networking
 
 # TODO:这块是自己的教育经历
 education:

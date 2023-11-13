@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Associate Professor <br>  San Francisco State University, USA</b>
+role: <b>Associate Professor <br> Department of Computer Science,<br> San Francisco State University, USA</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -46,7 +46,7 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Computer networks
+  - Computer Networks
   - Cybersecurity
   - Cyber-Physical Systems
 
