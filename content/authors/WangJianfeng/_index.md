@@ -18,6 +18,9 @@ role: <b>Product Innovation <br> Elderly Carefree Technology, USA <br> (Supervis
 
 # TODO:Old page的信息可能不全了，需要大家自己在google找一下信息。需要加上的信息主要包含email、google scholar、个人主页、linkedin
 social:
+  - icon: envelope  # 邮箱
+    icon_pack: fas
+    link: 'mailto:jianfengwang110@hotmail.com'
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/GeorgeCushen
