@@ -30,9 +30,9 @@ social:
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/thoureality
-  # - icon: google-scholar  # google scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=dJgRKmwAAAAJ
+  - icon: google-scholar  # google scholar
+    icon_pack: ai
+    link: 
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
     link: https://bmithbs.github.io/
@@ -42,9 +42,9 @@ social:
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
   #   link: files/cv.pdf
-  # - icon: linkedin 
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/senkang-hu-3123681b5/
+  - icon: linkedin 
+    icon_pack: fab
+    link: https://www.linkedin.com/in/senkang-hu-3123681b5/
 
 # TODO:这块是自己的研究兴趣
 interests:

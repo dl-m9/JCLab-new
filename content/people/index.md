@@ -46,8 +46,8 @@ sections:
           # - Researchers
           - Graduated PhD Students
           - Former Postdoctoral Researchers
-          - Former Visitors
-          # - Alumnis
+          - Former Visiting Students
+          - Former Visiting Scholars
         
 
       sort_by: Params.last_name
