@@ -38,8 +38,8 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Collaborative Perception; 
-  - Mobile/Edge Computing; 
+  - Collaborative Perception
+  - Mobile/Edge Computing
   - Age of Information
 
 # TODO:这块是自己的教育经历
