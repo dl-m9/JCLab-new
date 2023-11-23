@@ -119,8 +119,10 @@ sections:
             <body>
 
             <div class="scrollable-content">
+              <b>[11/23/2023]</b>   Congratulations to Professor <b><a href="author/dr.-li-pan">Pan Li</a></b>, our former lab member, who has been elevated  to <b>IEEE Fellow</b>!!! <br><br>
                 <b>[01/18/2023]</b> 🔥🔥🔥 Congratulations to <b>Prof. Fang</b>, who has been elevated to <b><span style="color:#1565C0;"><a href="https://www.acm.org/media-center/2023/january/fellows-2022">  ACM Fellow</a>   </span></b>!!!
               <br> <br>
+
               <b>[08/05/2022]</b> 🔥🔥🔥 Congratulations to <b>Prof. Fang</b>, who will join the Department of Computer Science, City University of Hong Kong (CityU), as the <b>Chair Professor of Internet of Things</b>!!! 
               <br> <br>
               <b>[06/21/2022]</b> Congratulations to <b>Dr. Jianqing Liu</b>, our former member, who will join the Department of Computer Science, North Carolina State University (NC State), as an <b>assistant professor</b>!!! <br><br>
