@@ -142,7 +142,7 @@ sections:
               
               <li><b>[02/02/2022]</b> Congratulations to <b>Yanmin</b> and <b>Yuanxiong</b>, our former members, who have been promoted to <b>Associate Professor</b> with tenure at University of Texas at San Antonio!!!</li>
 
-              <li><b>[11/11/2022]</b> Congratulations to <b>Haichuan Ding</b>, who has joined the School of Cyberspace Science and Technology, <b>Beijing Institute of Technology<b>, Beijing, China, as a <b>full professor<b>! </li>
+              <li><b>[11/11/2022]</b> Congratulations to <b>Haichuan Ding</b>, who has joined the School of Cyberspace Science and Technology, <b>Beijing Institute of Technology</b>, Beijing, China, as a <b>full professor</b>! </li>
 
             </ul>
             </div>
