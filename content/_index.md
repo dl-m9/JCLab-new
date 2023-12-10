@@ -58,23 +58,28 @@ sections:
       
       items:
         - name: Internet of Things
-          description: The Internet of Things (IoT) is a network of interconnected devices that communicate and exchange data, enhancing automation and real-time monitoring in various fields, from home appliances to industrial machinery.
+          description: 
+		  # The Internet of Things (IoT) is a network of interconnected devices that communicate and exchange data, enhancing automation and real-time monitoring in various fields, from home appliances to industrial machinery.
           icon: iot
           icon_pack: custom
         - name: Federated Learning
-          description: Federated Learning is a machine learning approach where models are trained across multiple decentralized devices or servers holding local data samples, protecting privacy while still enabling collaborative learning.
+          description: 
+		  # Federated Learning is a machine learning approach where models are trained across multiple decentralized devices or servers holding local data samples, protecting privacy while still enabling collaborative learning.
           icon: chart-line
           icon_pack: fas
         - name: Smart City
-          description: Our mission is to leverage vehicles to build a smarter city in Hong Kong
+          description: 
+		  # Our mission is to leverage vehicles to build a smarter city in Hong Kong
           icon: 🌆
           icon_pack: emoji
         - name: Wireless Communication
-          description: Wireless communication refers to data transmission between devices without physical connections, using radio waves, infrared signals, or other electromagnetic waves.
+          description: 
+		  # Wireless communication refers to data transmission between devices without physical connections, using radio waves, infrared signals, or other electromagnetic waves.
           icon: 📱
           icon_pack: emoji
         - name: Vehicle as a Service (VaaS)
-          description: We are delicated to use of vehicles to build a cost-effective service network, called the Vehicle as a Service (VaaS) paradigm.
+          description: 
+		  # We are delicated to use of vehicles to build a cost-effective service network, called the Vehicle as a Service (VaaS) paradigm.
           icon: car
           icon_pack: custom
         - name: Security & Privacy
