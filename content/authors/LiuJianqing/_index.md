@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Dr. LIU, Jianqiang
+title: Dr. LIU, Jianqing
 
 # TODO:Full name (for SEO) 必填
 first_name: lan   
