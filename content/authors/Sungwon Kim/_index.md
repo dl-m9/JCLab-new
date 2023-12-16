@@ -49,9 +49,9 @@ social:
 
 # TODO:这块是自己的研究兴趣，均所有单词首字母大写
 interests:
-  - Wireless networks: Protocol design and performance evaluation in wireless PAN/LAN/MAN/RAN, Cognitive radio, IoT, wireless sensor networks, wireless mesh networks, and mobile ad hoc networks.
-  - Mobile networks: Access control, handoff, power control, routing, and admission control
-  - Machine learning: Reinforcement learning, deep learning.
+  - Wireless networks
+  - Mobile networks
+  - Machine learning
 
 # TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
 education:
@@ -75,9 +75,9 @@ user_groups:
   # - Alumnis
   # - Postdoctors
   # - Faculty
-  - Graduated PhD Students
+  # - Graduated PhD Students
   # - Former Postdoctoral Researchers
-   - Former Visitors
+  - Former Visiting Scholars
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

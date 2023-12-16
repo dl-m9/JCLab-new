@@ -52,17 +52,17 @@ interests:
   - Security and Privacy
 
 # TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
-education:
-  courses:
-    - course: -
-      institution: -
-      year: -
-    - course: -
-      institution: -
-      year: -
-    - course: -
-      institution: -
-      year: -
+# education:
+#   courses:
+#     - course: -
+#       institution: -
+#       year: -
+#     - course: -
+#       institution: -
+#       year: -
+#     - course: -
+#       institution: -
+#       year: -
 
 # TODO:选一个身份，取消注释
 user_groups:
@@ -75,10 +75,9 @@ user_groups:
   # - Faculty
   #- Graduated PhD Students
   # - Former Postdoctoral Researchers
-   - Former Visitors
+  - Former Visiting Students
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
 <!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
-Unknown

@@ -1,10 +1,10 @@
 ---
 # TODO:Display name 必填，格式[Title如Dr.，visiting可能没有，注意统一最高是Dr. 而不是Prof.] [全大写的Last name][, ][首字母大写的Last name]
-title: Dr. JIN, Hyunjoon
+title: Dr. CHANG, Hui-Ling
 
 # TODO:Full name (for SEO) 必填，这是用来排序的，first name就填真实的名，last_name一定按照excel填写
-first_name: Hyunjoon   
-last_name: adv
+first_name: hui-ling  
+last_name: abw
 
 # 不用管这个
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Assistant Professor <br> Hoseo University, <br>Korea</b>
+role: <b>Ph.D. Student <br> Department of Computer Science and Information Engineering, <br>National Cheng Kung University, Taiwan</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -27,7 +27,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'wontlr38@gmail.com'
+    link: 'anniemo0815@gmail.com'
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/GeorgeCushen
@@ -49,35 +49,34 @@ social:
 
 # TODO:这块是自己的研究兴趣，均所有单词首字母大写
 interests:
-  - Wireless Communications
+  - Wireless Sensor Network
+  - Mobile Network
 
 # TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
 education:
   courses:
-  #  - course: PhD in Electrical and Computer Engineering
-  #    institution: University of Florida
-  #    year: 2014 - 2019
-  #  - course: MSc in Electronic Engineering
-  #    institution: University of Electronic Science and Technology of China
-  #    year: 2013 - 2016
-  #  - course: BSc in Electronic Engineering
-  #    institution: University of Electronic Science and Technology of China
-  #    year: 2009 - 2013
+    - course: PhD
+      institution: National Cheng Kung University
+      year: 2014 - 2019
+    - course: BSc
+      institution: National Cheng Kung University
+      year: 2010 - 2014
 
 # TODO:选一个身份，取消注释
 user_groups:
   # - Principal Investigators
   # - Researchers
   # - PhDs
-   - Visitors
+  # - Visitors
   # - Alumnis
   # - Postdoctors
   # - Faculty
-  - Graduated PhD Students
+  #- Graduated PhD Students
   # - Former Postdoctoral Researchers
-  # - Former Visitors
+  - Former Visitors
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
 <!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
+Hui-Ling Chang received the B.S. degree from National Cheng Kung University, Taiwan, in 2014, where she is currently pursuing the Ph.D. degree with the Department of Computer Science and Information Engineering.,In 2015, she was a Summer Intern with MediaTek Inc., Taiwan. Her research interests include wireless sensor network and mobile network.

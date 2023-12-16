@@ -51,7 +51,7 @@ social:
 interests:
   - Enhancing throughput of LAN，Wireless mobile networks，Research on routing control of mobile networks and broadcast service.
   - Ad Hoc networks
-  - Intelligent Transport Systems: ITS
+  - Intelligent Transport Systems
 
 # TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
 education:
@@ -64,13 +64,13 @@ user_groups:
   # - Principal Investigators
   # - Researchers
   # - PhDs
-   - Visitors
+  #  - Visitors
   # - Alumnis
   # - Postdoctors
   # - Faculty
-  - Graduated PhD Students
+  # - Graduated PhD Students
   # - Former Postdoctoral Researchers
-  # - Former Visitors
+  - Former Visiting Scholars
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

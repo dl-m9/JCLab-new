@@ -73,14 +73,14 @@ education:
 user_groups:
   # - Principal Investigators
   # - Researchers
-   - PhDs
+  #  - PhDs
   # - Visitors
   # - Alumnis
   # - Postdoctors
   # - Faculty
-  - Graduated PhD Students
+  # - Graduated PhD Students
   # - Former Postdoctoral Researchers
-  # - Former Visitors
+  - Former Visiting Scholars
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

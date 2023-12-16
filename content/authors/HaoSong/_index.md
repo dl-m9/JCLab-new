@@ -1,10 +1,10 @@
 ---
 # TODO:Display name 必填，格式[Title如Dr.，visiting可能没有，注意统一最高是Dr. 而不是Prof.] [全大写的Last name][, ][首字母大写的Last name]
-title: Dr. CHANG, Hui-Ling
+title: Dr. SONG, Hao
 
 # TODO:Full name (for SEO) 必填，这是用来排序的，first name就填真实的名，last_name一定按照excel填写
-first_name: hui-ling  
-last_name: abw
+first_name: hao
+last_name: aca
 
 # 不用管这个
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Ph.D. Student <br> Department of Computer Science and Information Engineering, <br>National Cheng Kung University, Taiwan</b>
+role: <b>Ph.D. Student <br> School of Information Science and Technology, <br>Southwest Jiaotong University, China</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -27,7 +27,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'anniemo0815@gmail.com'
+    link: 'songhao992013@gmail.com'
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/GeorgeCushen
@@ -49,18 +49,21 @@ social:
 
 # TODO:这块是自己的研究兴趣，均所有单词首字母大写
 interests:
-  - Wireless Sensor Network
-  - Mobile Network
+  - Decoupled Control/User Planes
+  - Mobile Network Optimization
+  - Unlicensed Spectra Cognitive Systems
+  - Reliable Wireless Communication for High-speed Railways
+  - 5G Communication Systems
 
 # TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
 education:
   courses:
     - course: PhD
-      institution: National Cheng Kung University
-      year: 2014 - 2019
-    - course: BSc
-      institution: National Cheng Kung University
-      year: 2010 - 2014
+      institution: School of Information Science and Technology
+      year: Unknown
+    - course: BSc in Electrical Information Engineering
+      institution: Zhengzhou University
+      year: 2007 - 2011
 
 # TODO:选一个身份，取消注释
 user_groups:
@@ -73,10 +76,10 @@ user_groups:
   # - Faculty
   #- Graduated PhD Students
   # - Former Postdoctoral Researchers
-   - Former Visitors
+  - Former Visitors
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
 <!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
-Hui-Ling Chang received the B.S. degree from National Cheng Kung University, Taiwan, in 2014, where she is currently pursuing the Ph.D. degree with the Department of Computer Science and Information Engineering.,In 2015, she was a Summer Intern with MediaTek Inc., Taiwan. Her research interests include wireless sensor network and mobile network.
+Hao Song received his B.E. degree in electrical information engineering in 2011 from Zhengzhou University, China. He is currently a Ph.D student with the Key Laboratory of Information Coding and Transmission, School of Information Science and Technology, Southwest Jiaotong University, Chengdu, China. His research focuses on decoupled control/user planes, mobile network optimization, unlicensed spectra cognitive systems, reliable wireless communication for high-speed railways, and 5G communication systems.

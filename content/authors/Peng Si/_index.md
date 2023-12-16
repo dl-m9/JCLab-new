@@ -52,17 +52,17 @@ interests:
   - Wireless Networks
 
 # TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
-education:
-  courses:
-    - course: -
-      institution: -
-      year: -
-    - course: -
-      institution: -
-      year: -
-    - course: -
-      institution: -
-      year: -
+# education:
+#   courses:
+#     - course: -
+#       institution: -
+#       year: -
+#     - course: -
+#       institution: -
+#       year: -
+#     - course: -
+#       institution: -
+#       year: -
 
 # TODO:选一个身份，取消注释
 user_groups:
