@@ -27,7 +27,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'jsywow@gmail.com'
+    link: 'mailto:jsywow@gmail.com'
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/GeorgeCushen
@@ -74,7 +74,7 @@ user_groups:
   # - Faculty
   #- Graduated PhD Students
   # - Former Postdoctoral Researchers
-   - Former Visitors
+   - Former Visiting Students
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

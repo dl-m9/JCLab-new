@@ -27,7 +27,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'zhaoty@mail.ustc.edu.cn'
+    link: 'mailto:zhaoty@mail.ustc.edu.cn'
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/GeorgeCushen
