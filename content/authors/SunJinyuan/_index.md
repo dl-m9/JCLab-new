@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Associate Professor<br> Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville, USA</b>
+role: <b>Professor<br> Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville, USA</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:

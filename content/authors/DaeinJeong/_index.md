@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Assistant Professor <br> Hankuk University of Foreign Studies, <br>Korea</b>
+role: <b>Professor <br> Hankuk University of Foreign Studies, <br>Korea</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:
