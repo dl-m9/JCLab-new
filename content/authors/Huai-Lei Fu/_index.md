@@ -14,14 +14,14 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b> ?? <br> ??, <br> ?? </b>
+role: Not available
  
 # TODO:Organizations/Affiliations 必填
 organizations:
   # - name: Idaho State University 
   #   url: ''
-  - name: Homepage  # 写自己的主页链接，如果没有则注释掉
-    url: ??
+  # - name: Homepage  # 写自己的主页链接，如果没有则注释掉
+  #   url: ??
 
 # TODO:Old page的信息可能不全了，需要大家自己在google找一下信息。需要加上的信息主要包含email、google scholar、个人主页、linkedin
 social:
@@ -31,12 +31,12 @@ social:
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar  # google scholar
-    icon_pack: ai
-    link: ??
-  - icon: house-user  # 自己的主页链接
-    icon_pack: fas
-    link: ??
+  # - icon: google-scholar  # google scholar
+  #   icon_pack: ai
+  #   link: ??
+  # - icon: house-user  # 自己的主页链接
+  #   icon_pack: fas
+  #   link: ??
   # - icon: github # github主页
   #   icon_pack: fab   
   #  link: https://github.com/rriggio
@@ -79,7 +79,7 @@ user_groups:
   # - Faculty
   # - Graduated PhD Students
   # - Former Postdoctoral Researchers
-  - Former Visitors
+  - Former Visiting Students
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

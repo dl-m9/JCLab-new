@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填，格式[Title如Dr.，visiting可能没有，注意统一最高是Dr. 而不是Prof.] [全大写的Last name][, ][首字母大写的Last name]
-title: Dr. TANG, Xiaobin
+title: Dr. TAN, Xiaobin
 
 # TODO:Full name (for SEO) 必填，这是用来排序的，first name就填真实的名，last_name一定按照excel填写
 first_name: Xiaobin   

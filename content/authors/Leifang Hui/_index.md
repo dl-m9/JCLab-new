@@ -56,13 +56,13 @@ interests:
 # TODO:这块是写他们的教育经历，注意格式。主页上找不到的往往在linkedin是全的
 education:
   courses:
-    - course: PhD in ??
+    - course: PhD
       institution: Xidian University
       year: 2007 - 2012
-    - course: MSc in ??
+    - course: MSc
       institution: Xidian University
       year: 2004 - 2007
-    - course: BSc in ??
+    - course: BSc
       institution: Xidian University
       year: 2000 - 2004
 
@@ -77,7 +77,7 @@ user_groups:
   # - Faculty
   # - Graduated PhD Students
   # - Former Postdoctoral Researchers
-  - Former Visitors
+  - Former Visiting Students
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
