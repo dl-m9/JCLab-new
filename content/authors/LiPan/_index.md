@@ -73,7 +73,7 @@ user_groups:
   # - Alumnis
   # - Postdoctors
   - Graduated PhD Students
-  - Faculty
+  # - Faculty
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
