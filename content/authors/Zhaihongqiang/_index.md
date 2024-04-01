@@ -36,7 +36,10 @@ social:
   #   link: files/cv.pdf
   - icon: linkedin 
     icon_pack: fab
-    link: https://www.linkedin.com/in/hongqiang-zhai-87b19a9/
+    link: https://www.linkedin.com/in/hongqiang-zhai-87b19a9/\
+  - icon: google-scholar  # google scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Tscci40AAAAJ&hl=en
 
 # TODO:这块是自己的研究兴趣，均所有单词首字母大写
 interests:

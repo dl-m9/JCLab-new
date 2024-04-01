@@ -33,7 +33,7 @@ social:
  #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar  # google scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=KmbIc4sAAAAJ
+    link: https://scholar.google.com/citations?user=ziGqWhIAAAAJ&hl=zh-CN
  # - icon: house-user  # 自己的主页链接
  #   icon_pack: fas
  #   link: https://www.cs.cityu.edu.hk/~yugufang/
