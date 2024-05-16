@@ -59,7 +59,7 @@ education:
   courses:
     - course: Visiting PhD student in Computer Science
       institution: City University of Hong Kong
-      year: 2023. - 2024.4
+      year: 2023.3 - 2024.3
     - course: PhD student in Automation
       institution: Shanghai Jiao Tong University
       year: 2018 - Now
