@@ -44,11 +44,11 @@ sections:
           # - Principal Investigators
           # - Faculty
           # - Researchers
-          # - Graduated PhD Students
-          # - Graduated Master Students
-          # - Former Postdoctoral Researchers
+          - Graduated PhD Student
+          # - Graduated Master Student
+          - Former Postdoctoral Researcher
           # - Former Visiting Scholars
-          # - Former Visiting Student
+          - Former Visiting Student
   
       sort_by: Params.last_name
       sort_ascending: true
