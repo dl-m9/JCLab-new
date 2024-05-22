@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Ph.D. Student <br> BSc @  City University of Hong Kong</b>
+role: <b>Ph.D. Student <br> BEng @  City University of Hong Kong</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
