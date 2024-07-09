@@ -34,9 +34,9 @@ social:
   - icon: google-scholar  # google scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=gzq7YKkAAAAJ&hl=en
-  # - icon: house-user  # 自己的主页链接
-  #   icon_pack: fas
-  #   #link: https://www.cs.cityu.edu.hk/~yugufang/
+  - icon: house-user  # 自己的主页链接
+    icon_pack: fas
+    link: https://hangchengc.github.io/
   # - icon: github # github主页
   #   icon_pack: fab   
   #   #link: https://www.github.com/
