@@ -4,7 +4,7 @@ title: Dr. XU, Guowen
 
 # TODO:Full name (for SEO) 必填
 first_name: Guowen  
-last_name: Xu
+last_name: aaa
 
 # 不用管这个
 authors:

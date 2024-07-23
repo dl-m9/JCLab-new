@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填，格式[Title如Dr.，visiting可能没有，注意统一最高是Dr. 而不是Prof.] [全大写的Last name][, ][首字母大写的Last name]
-title: Dr. Deng, Yiqin
+title: Dr. DENG, Yiqin
 
 # TODO:Full name (for SEO) 必填，这是用来排序的，first name就填真实的名，last_name一定按照excel填写
 first_name: yiqin 
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:格式：<b>职称，比如Associate Professor, Assistant Professor <br> {工作单位}, {工作国家:China、USA等}</b>
-role: <b>Post Doctor <br> School of Control Science and Engineering, <br>Shandong University, China</b>
+role: <b>Postdoctor @ CityU</b>
  
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -62,9 +62,9 @@ education:
     - course: MSc in Software Engineering
       institution: Central South University
       year: 2014 - 2017
-    - course: BSc in Project Management
-      institution: Hunan Institute of Engineering
-      year: 2010 - 2014
+    # - course: BSc in Project Management
+    #   institution: Hunan Institute of Engineering
+    #   year: 2010 - 2014
 
 # TODO:选一个身份，取消注释
 user_groups:
@@ -77,10 +77,13 @@ user_groups:
   # - Faculty
   #- Graduated PhD Students
   # - Former Postdoctoral Researchers
-   - Former Visiting Students
+  - Former Visiting Students
+  - Postdoctoral Researchers
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
 <!-- 这部分不要写他们的PhD招生信息，直接复制他们主页的个人简介。实在没有，在excel备注一下{个人资料缺失}再提交给我 -->
 <!-- <p style="text-align:justify">  -->
-Yiqin Deng received her B.S. degree in project management from Hunan Institute of Engineering, Xiangtan, China, in 2014, and her M.S. degree in software engineering and PhD degree in computer science and technology from Central South University, Changsha, China, in 2017 and 2022, respectively. She was a visiting researcher at the University of Florida, Gainesville, from 2019 to 2021. Her research interests include edge/fog computing, the Internet of Vehicles, and resource management.
+<!-- Yiqin Deng is currently a Postdoctoral Research at City University of Hong Kong. Previously, she was a Postdoctoral Research at Shandong University, Jinan, China. She received her B.S. degree in project management from Hunan Institute of Engineering, Xiangtan, China, in 2014, and her M.S. degree in software engineering and PhD degree in computer science and technology from Central South University, Changsha, China, in 2017 and 2022, respectively. She was a visiting researcher at the University of Florida, Gainesville, from 2019 to 2021. Her research interests include edge/fog computing, the Internet of Vehicles, and resource management. -->
+
+Yiqin Deng is currently a Postdoctoral Research at City University of Hong Kong. Previously, she was a Postdoctoral Research at Shandong University, Jinan, China. She received her M.S. degree in software engineering and PhD degree in computer science and technology from Central South University, Changsha, China, in 2017 and 2022, respectively. She was a visiting researcher at the University of Florida, Gainesville, from 2019 to 2021. Her research interests include edge/fog computing, the Internet of Vehicles, and resource management.
