@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>PhD Student<br> MSc @ Shanghai Jiao Tong University<Br>BSc @ Southeast University</b>
+role: <b>PhD Student @ 24 Fall<br> MSc @ Shanghai Jiao Tong University<Br>BSc @ Southeast University</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -55,7 +55,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: City University of Hong Kong
-      year: 2024 - Now
+      year: 2024.9¡ - Now
     - course: MEng in Electronic Information
       institution: Shanghai Jiao Tong University
       year: 2021 - 2024
@@ -73,6 +73,7 @@ user_groups:
   # - Postdoctor
 ---
 <!-- TODO:写自己的Biography -->
-# Biography
-Yihang Tao received the B.S. degree from the School of Information Science and Engineering, Southeast University, Nanjing, China, in 2021 and received his M.S. degree from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China, in 2024 (Advisor: Prof. Jun Wu). Currently, he is pursuing his PhD degree in the Department of Computer Science at City University of Hong Kong (Advisor: Prof. Yuguang “Michael” Fang). His research interests include Wireless Networks, Mobile/Edge Computing, and Connected and Autonomous Driving. He is the reviewer for IEEE LNET, TPC member and session chair for IEEE GLOBECOM 2023.
 
+# Biography
+
+Yihang Tao received the B.S. degree from the School of Information Science and Engineering, Southeast University, Nanjing, China, in 2021 and received his M.S. degree from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China, in 2024 (Advisor: Prof. Jun Wu). Currently, he is pursuing his PhD degree in the Department of Computer Science at City University of Hong Kong (Advisor: Prof. Yuguang “Michael” Fang). His research interests include Wireless Networks, Mobile/Edge Computing, and Connected and Autonomous Driving. He is the reviewer for IEEE LNET, TPC member and session chair for IEEE GLOBECOM 2023.

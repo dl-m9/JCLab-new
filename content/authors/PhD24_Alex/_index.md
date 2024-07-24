@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>Ph.D. Student <br> BEng @  City University of Hong Kong</b>
+role: <b>PhD Student @ 24 Fall <br> BEng @  City University of Hong Kong</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -55,7 +55,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: City University of Hong Kong
-      year: 2024 - Now
+      year: 2024.9 - Now
     - course: BEng in Biomedical Engineering
       institution: City University of Hong Kong
       year: 2020-2024
@@ -70,5 +70,7 @@ user_groups:
   # - Postdoctor
 ---
 <!-- TODO:写自己的Biography -->
+
 # Biography
+
 Alex Chit-Yuen Cheng received a BEng degree in Biomedical Engineering from City University of Hong Kong in 2024. He joined the Wireless Intelligence and Networked Things Laboratory (WINET) at City University of Hong Kong as a PhD student in the same year.

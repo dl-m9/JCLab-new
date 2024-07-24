@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>PhD Student <br>MSc @ Nanyang Technological University <br>BSc @ Huazhong University of Science and Technology</b>
+role: <b>PhD Student @ 24 Fall <br>MSc @ Nanyang Technological University <br>BSc @ Huazhong University of Science and Technology</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
@@ -62,7 +62,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: City University of Hong Kong
-      year: 2024 - Now
+      year: 2024.9 - Now
     - course: MSc in Signal Processing
       institution: Nanyang Technological University
       year: 2023 - 2024
@@ -80,6 +80,7 @@ user_groups:
   # - Postdoctor
 ---
 <!-- TODO:写自己的Biography -->
+
 # Biography
 
 Haonan An received his B.S. degree in Telecommunication Engineering from Huazhong University of Science and Technology in Wuhan, China, in 2023. He earned his M.S. degree in Signal Processing from the School of Electrical and Electronic Engineering at Nanyang Technological University in Singapore in 2024. His research interests include collaborative perception, and AI security (model watermarking, security in autonomous driving).
