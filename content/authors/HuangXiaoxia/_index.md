@@ -72,7 +72,7 @@ user_groups:
   # - Visitors
   # - Alumnis
   # - Postdoctors
-  # - Faculty
+  - Faculty
   - Graduated PhD Students
   # - Former Postdoctoral Researchers
   # - Former Visitors
