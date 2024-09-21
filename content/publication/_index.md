@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: <center>Check Prof. Fang's <a href="https://scholar.google.com/citations?user=dJgRKmwAAAAJ">Google Scholar</a> to obtain the full publication list!<br><br></center>
+subtitle: <center>Check Prof. Fang's <a href="https://scholars.cityu.edu.hk/en/persons/yuguang-fang(b2d78936-ab0a-4186-9f64-0f468013de23)/publications.html">CityU Scholar</a> to obtain the full publication list!<br><br></center>
 
 # Listing view
 view: citation
