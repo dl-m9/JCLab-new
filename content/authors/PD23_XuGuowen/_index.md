@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b> Postdoctor @ CityU<br> Research Fellow @ Nanyang Technological University, <br>  PhD @ University of Electronic Science and Technology of China</b>
+role: <b>  Professor <br> School of Computer Science and Engineering, <br>University of Electronic Science and Technology of China</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
-  - name: City University of Hong Kong 
-    url: 'https://www.cityu.edu.hk'
+  - name: University of Electronic Science and Technology of China 
+    url: 'https://en.uestc.edu.cn/'
   - name: Homepage  # 写自己的主页链接，如果没有则注释掉
     url: https://guowen-xu.github.io/
 
@@ -27,7 +27,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'mailto:guowenxu@cityu.edu.hk'
+    link: 'mailto:guowenxu@uestc.edu.cn'
   - icon: google-scholar  # google scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN
@@ -38,8 +38,8 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Applied Cryptography; 
-  - AI Security and Privacy; 
+  - Applied Cryptography
+  - AI Security and Privacy
 
 # TODO:这块是自己的教育经历
 education:
@@ -53,10 +53,10 @@ education:
 
 # TODO:选一个自己的身份
 user_groups:
-  - Postdoctoral Researchers
+  - Former Postdoctoral Researcher
 ---
 <!-- TODO:写自己的Biography -->
 # Biography
 <!-- <p style="text-align:justify">  -->
-Guowen Xu is currently a Postdoc at City University of Hong Kong under the supervision of Prof. Yuguang Fang. He was a Research Fellow at Nanyang Technolgoical University from March 2021 to May 2023. He obtained his Ph.D. degree from University of Electronic Science and Technology of China. He prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. His current research intertests focus on different topics related to AI Security and Privacy.
 
+Dr. Guowen Xu is currently a full professor with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China. Prior to joining UESTC, I was a Postdoc research fellow at City University of Hong Kong and a Research Fellow at Nanyang Technolgoical University from 2021 to 2024. My current research interests focus on AI Security and Privacy.

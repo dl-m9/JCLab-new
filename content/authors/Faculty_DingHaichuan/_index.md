@@ -4,7 +4,7 @@ title: Dr. DING, Haichuan
 
 # TODO:Full name (for SEO) 必填
 first_name:    
-last_name: aaf
+last_name: i
 
 # 不用管这个
 authors:
