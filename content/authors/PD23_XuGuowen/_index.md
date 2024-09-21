@@ -27,7 +27,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'mailto:guowenxu@uestc.edu.cn'
+    link: 'mailto:guowen.xu@uestc.edu.cn'
   - icon: google-scholar  # google scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN
