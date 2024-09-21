@@ -59,4 +59,4 @@ user_groups:
 # Biography
 <!-- <p style="text-align:justify">  -->
 
-Dr. Guowen Xu is currently a full professor with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China. Prior to joining UESTC, I was a Postdoc research fellow at City University of Hong Kong and a Research Fellow at Nanyang Technolgoical University from 2021 to 2024. My current research interests focus on AI Security and Privacy.
+Dr. Guowen Xu is currently a full professor with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China. Prior to joining UESTC, I was a Postdoc research fellow at City University of Hong Kong (2023.5-2024.8) and a Research Fellow at Nanyang Technolgoical University from 2021 to 2024. My current research interests focus on AI Security and Privacy.
