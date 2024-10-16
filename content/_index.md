@@ -120,6 +120,7 @@ sections:
 
             <div class="scrollable-content">
             <ul>
+              <li><b>[Oct. 2024]</b> Congratulations to <b>Professor Xianhao Chen (EEE, HKU)</b>, our former lab member, who received the <b>Hong Kong Research Grant Grant Council's Early Career Award</b> in 2024/25!</li> 
               <li><b>[Jul. 2024]</b> Congratulations to <b>Dr. Guowen Xu</b>, who will join the Department of Computer Science at the <b>University of Electronic Science and Technology of China (UESTC)</b> as a <b>full professor</b>!!!</li> 
               <li><b>[Jul. 2024]</b> Congratulations to <b>Dr. Hao Yue</b>, who will move to the Department of Computer Science and Engineering at the <b>University of California, Santa Cruz (UCSC)</b> as a <b>tenured associate professor</b> in September!!!</li> 
               <li><b>[11/23/2023]</b>   Congratulations to Professor <b><a href="author/dr.-li-pan">Pan Li</a></b>, our former lab member, who has been elevated  to <b>IEEE Fellow</b>!!!</li> 
