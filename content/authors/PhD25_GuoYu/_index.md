@@ -20,8 +20,8 @@ role: <b>PhD Student @ 25 Fall <br> PhD & BSc @ Wuhan University of Technology</
 organizations:
   - name: City University of Hong Kong 
     url: 'https://www.cityu.edu.hk'
-  #- name: Homepage  # 写自己的主页链接，如果没有则注释掉
-  #  url: https://gy.github.io/
+  - name: Homepage  # 写自己的主页链接，如果没有则注释掉
+    url: https://gy65896.github.io/
 
 # TODO:这块可以附上自己的链接，社交媒体，邮箱，google scholar, CV等，不想要的注释掉即可
 social:
@@ -34,9 +34,9 @@ social:
   - icon: google-scholar  # google scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=klYz-acAAAAJ&hl
-  #- icon: house-user  # 自己的主页链接
-  #  icon_pack: fas
-  #  link: https://gy.github.io/
+  - icon: house-user  # 自己的主页链接
+    icon_pack: fas
+    link: https://gy65896.github.io/
   - icon: github # github主页
     icon_pack: fab   
     link: https://github.com/gy65896

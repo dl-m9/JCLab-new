@@ -32,7 +32,7 @@ social:
   #   link: https://twitter.com/thoureality
   - icon: google-scholar  # google scholar
     icon_pack: ai
-    link: 
+    link: https://scholar.google.com/citations?hl=en&user=rtPVwT8AAAAJ
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
     link: https://bmithbs.github.io/
