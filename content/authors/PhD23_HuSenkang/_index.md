@@ -38,7 +38,7 @@ social:
     link: https://bmithbs.github.io/
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
-  #   link: files/cv.pdf
+  #   link: files/cv.pdf 
   - icon: linkedin 
     icon_pack: fab
     link: https://www.linkedin.com/in/senkang-hu-3123681b5/
