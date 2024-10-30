@@ -21,7 +21,7 @@ organizations:
   - name: City University of Hong Kong 
     url: 'https://www.cityu.edu.hk'
   - name: Homepage  # 写自己的主页链接，如果没有则注释掉
-    url: https://bmithbs.github.io/
+    url: https://dl-m9.github.io/
 # TODO:这块可以附上自己的链接，社交媒体，邮箱，google scholar, CV等，不想要的注释掉即可
 social:
   - icon: envelope  # 邮箱
@@ -35,7 +35,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=rtPVwT8AAAAJ
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
-    link: https://bmithbs.github.io/
+    link: https://dl-m9.github.io/
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
   #   link: files/cv.pdf 
