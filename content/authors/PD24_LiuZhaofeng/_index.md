@@ -1,6 +1,6 @@
 ---
 # TODO:Display name 必填
-title: Dr. LIU Zhaofeng
+title: Dr. LIU, Zhaofeng
 
 # TODO:Full name (for SEO) 必填
 first_name: Zhaofeng
