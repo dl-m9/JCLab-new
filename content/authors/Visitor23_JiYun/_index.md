@@ -4,7 +4,7 @@ title: Ms. JI, Yun
 
 # TODO:Full name (for SEO) 必填
 first_name: Yun   
-last_name: Ji
+last_name: wen2
 
 # 不用管这个
 authors:
@@ -56,6 +56,9 @@ interests:
 # TODO:这块是自己的教育经历
 education:
   courses:
+    - course: Visiting PhD Student in Computer Science
+      institution: City University of Hong Kong
+      year: 2023.10 - 2024.10
     - course: PhD in Electronic Science and Technology
       institution: Tsinghua University
       year: 2020-Now
@@ -68,7 +71,8 @@ user_groups:
   # - Visitors
   # - Researchers
   # - PhDs
-  - Visiting Students
+  # - Visiting Students
+  - Former Visiting Student
   # - Alumni
   # - Postdoctor
 ---
