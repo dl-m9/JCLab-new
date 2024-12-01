@@ -11,16 +11,16 @@ main:
   - name: People
     url: people
     weight: 30
-  # - name: Research
-  #   url: event
-  #   weight: 40
+  - name: News
+    url: '#news'
+    weight: 40
   - name: Publications
-    url: publication
+    url: https://scholars.cityu.edu.hk/en/persons/yuguang-fang(b2d78936-ab0a-4186-9f64-0f468013de23)/publications.html
     weight: 50
   - name: Contact
-    url: contact
+    url: '#contact'
     weight: 60
   - name: Old Webpage
     url: https://winet.cs.cityu.edu.hk/
-    weight: 60
+    weight: 100
   
