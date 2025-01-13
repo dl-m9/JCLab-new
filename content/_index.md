@@ -104,23 +104,24 @@ sections:
       text: |-
 
             
-            <html lang="en">
-            <head>
-                <meta charset="UTF-8">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>Scrollable Content</title>
-                <style>
-                    .scrollable-content {
-                        height: 800px;
-                        overflow-y: scroll;
-                        # border: 1px solid #ccc;
-                        padding: 10px;
-                    }
-                </style>
-            </head>
-            <body>
+            # <html lang="en">
+            # <head>
+            #     <meta charset="UTF-8">
+            #     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            #     <title>Scrollable Content</title>
+            #     <style>
+            #         .scrollable-content {
+            #             height: 800px;
+            #             overflow-y: scroll;
+            #             # border: 1px solid #ccc;
+            #             padding: 10px;
+            #         }
+            #     </style>
+            # </head>
+            # <body>
 
-            <div class="scrollable-content">
+            # <div class="scrollable-content">
+            <div>
             <ul>
               <li><b>[Dec. 2024]</b> Congratulations to <b>Dr. Xiaojing Wen</b>, our former visiting student, who joined Shanghai Jiao Tong University as a <b>Assistant Researcher</b>!!!</li>
               <li><b>[Oct. 2024]</b> Congratulations to <b>Professor Xianhao Chen (EEE, HKU)</b>, our former lab member, who received the <b>Hong Kong Research Grant Council's Early Career Award</b> in 2024/25!</li> 
@@ -149,12 +150,12 @@ sections:
               <li><b>[02/02/2022]</b> Congratulations to <b>Yanmin</b> and <b>Yuanxiong</b>, our former members, who have been promoted to <b>Associate Professor</b> with tenure at University of Texas at San Antonio!!!</li>
 
               <li><b>[11/11/2022]</b> Congratulations to <b>Haichuan Ding</b>, who has joined the School of Cyberspace Science and Technology, <b>Beijing Institute of Technology</b>, Beijing, China, as a <b>full professor</b>! </li>
-
+              <li> Check more previous news <a href="https://winet.cs.cityu.edu.hk/">here</a>.</li>
             </ul>
             </div>
 
-            </body>
-            </html>
+            # </body>
+            # </html>
     design:
       columns: '1'
       background:
