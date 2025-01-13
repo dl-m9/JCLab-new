@@ -8,14 +8,14 @@ main:
   - name: Home
     url: /
     weight: 20
-  - name: People
-    url: people
-    weight: 30
   - name: News
     url: '#news'
+    weight: 30
+  - name: People
+    url: people
     weight: 40
   - name: Publications
-    url: https://scholars.cityu.edu.hk/en/persons/yuguang-fang(b2d78936-ab0a-4186-9f64-0f468013de23)/publications.html
+    url: publication
     weight: 50
   - name: Contact
     url: '#contact'
