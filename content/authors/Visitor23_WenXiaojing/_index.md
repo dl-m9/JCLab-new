@@ -81,4 +81,6 @@ user_groups:
 <!-- <p style="text-align:justify">  -->
 Xiaojing Wen received the B.S. degree at the Department of Measurement and Control Technology and Instruments, Jilin University, Changchun, China, in 2018. She is currently pursuing the Ph.D. degree in the school of Electronic Information and Electronical Engineering, Shanghai Jiao Tong University, Shanghai, China. Additionally, she is conducting a visiting Ph.D. student program at the Department of Computer Science, City University of Hong Kong. Her current research focuses the co-design of sensing-communication-computing, edge-assisted IIoT system and industrial network slicing. 
 
+**Updates:** Dr. Wen joined Shanghai Jiao Tong University as a Assistant Researcher! (Dec. 2024)
+
 
