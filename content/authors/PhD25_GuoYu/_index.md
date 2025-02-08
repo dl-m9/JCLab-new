@@ -4,7 +4,7 @@ title: Mr. GUO, Yu
 
 # TODO:Full name (for SEO) 必填
 first_name: Yu   
-last_name: 245
+last_name: 25guoyu
 
 # 不用管这个
 authors:

@@ -1,10 +1,10 @@
 ---
 # TODO:Display name 必填
-title: Dr. WANG, Jie
+title: Prof. WANG, Jie
 
 # TODO:Full name (for SEO) 必填
 first_name:    
-last_name: g
+last_name: wangjie
 
 # 不用管这个
 authors:
@@ -78,6 +78,7 @@ user_groups:
   # - Postdoctors
   - Faculty
   # - Graduated PhD Students
+  # - Former Postdoctoral Researchers
 ---
 <!-- TODO:写自己的Biography -->
 # Biography

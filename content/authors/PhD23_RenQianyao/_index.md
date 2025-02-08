@@ -4,7 +4,7 @@ title: Mr. REN, Qianyao
 
 # TODO:Full name (for SEO) 必填
 first_name: Qianyao   
-last_name: REN
+last_name: 23renqianyao
 
 # 不用管这个
 authors:

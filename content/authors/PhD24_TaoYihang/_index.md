@@ -4,7 +4,7 @@ title: Mr. TAO, Yihang
 
 # TODO:Full name (for SEO) 必填
 first_name: Yihang  
-last_name: 241
+last_name: 24taoyihang
 
 # 不用管这个
 authors:

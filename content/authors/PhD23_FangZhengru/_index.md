@@ -4,7 +4,7 @@ title: Mr. FANG, Zhengru
 
 # TODO:Full name (for SEO) 必填
 first_name: Zhengru   
-last_name: Fang
+last_name: 23fangzhengru
 
 # 不用管这个
 authors:

@@ -4,7 +4,7 @@ title: Ms. FANG, Zihan
 
 # TODO:Full name (for SEO) 必填
 first_name: Zihan   
-last_name: Fang
+last_name: 23fangzihan
 
 # 不用管这个
 authors:

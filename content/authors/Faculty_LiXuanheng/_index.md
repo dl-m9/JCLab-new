@@ -1,9 +1,9 @@
 ---
 # TODO:Display name 必填
-title: Dr. LI, Xuanheng
+title: Prof. LI, Xuanheng
 # TODO:Full name (for SEO) 必填
 first_name:    
-last_name: h
+last_name: lixuanheng
 
 # 不用管这个
 authors:

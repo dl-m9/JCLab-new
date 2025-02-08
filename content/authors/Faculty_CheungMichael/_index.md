@@ -1,10 +1,10 @@
 ---
 # TODO:Display name 必填
-title: Dr. CHEUNG Man Hon Michael
+title: Prof. CHEUNG, Man Hon Michael
 
 # TODO:Full name (for SEO) 必填
 first_name:    
-last_name: j
+last_name: cheungmanhonmichael
 
 # 不用管这个
 authors:

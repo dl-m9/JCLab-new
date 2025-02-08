@@ -1,10 +1,10 @@
 ---
 # TODO:Display name 必填
-title: Dr. DING, Haichuan
+title: Prof. DING, Haichuan
 
 # TODO:Full name (for SEO) 必填
 first_name:    
-last_name: i
+last_name: dinghaichuan
 
 # 不用管这个
 authors:

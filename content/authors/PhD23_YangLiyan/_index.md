@@ -4,7 +4,7 @@ title: Ms. YANG, Liyan
 
 # TODO:Full name (for SEO) 必填
 first_name: Liyan  
-last_name: YANG
+last_name: 23yangliyan
 
 # 不用管这个
 authors:

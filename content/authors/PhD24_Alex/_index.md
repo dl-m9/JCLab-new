@@ -4,7 +4,7 @@ title: Mr. CHENG, Chit-Yuen Alex
 
 # TODO:Full name (for SEO) 必填
 first_name: Alex   
-last_name: 243
+last_name: 24chengchityuan
 
 # 不用管这个
 authors:

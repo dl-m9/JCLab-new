@@ -4,7 +4,7 @@ title: Mr. HU, Senkang
 
 # TODO:Full name (for SEO) 必填
 first_name: Senkang  
-last_name: Hu
+last_name: 23husenkang
 
 # 不用管这个
 authors:

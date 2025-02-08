@@ -4,7 +4,7 @@ title: Mr. AN, Haonan
 
 # TODO:Full name (for SEO) 必填
 first_name: Haonan   
-last_name: 242
+last_name: 24anhaonan
 
 # 不用管这个
 authors:
