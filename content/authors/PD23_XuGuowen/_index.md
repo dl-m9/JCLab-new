@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>  Professor <br> School of Computer Science and Engineering, <br>University of Electronic Science and Technology of China</b>
+role: <b> Professor (海外优青) <br> School of Computer Science and Engineering, <br>University of Electronic Science and Technology of China</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:

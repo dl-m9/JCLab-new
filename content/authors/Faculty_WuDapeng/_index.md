@@ -4,7 +4,7 @@ title: Prof. WU, Dapeng Oliver
 
 # TODO:Full name (for SEO) 必填
 first_name:    
-last_name: wadapeng
+last_name: wudapeng
 
 # 不用管这个
 authors:
