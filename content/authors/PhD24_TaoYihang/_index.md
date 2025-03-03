@@ -46,16 +46,16 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Wireless Networks;
-  - Mobile/Edge Computing; 
-  - Connected and Autonomous Driving; 
+  - Collaborative perception
+  - Autonomous driving
+  - AI security
 
 # TODO:这块是自己的教育经历
 education:
   courses:
     - course: PhD in Computer Science
       institution: City University of Hong Kong
-      year: 2024.9¡ - Now
+      year: 2024.9 - Now
     - course: MEng in Electronic Information
       institution: Shanghai Jiao Tong University
       year: 2021 - 2024
@@ -76,4 +76,4 @@ user_groups:
 
 # Biography
 
-Yihang Tao received the B.S. degree from the School of Information Science and Engineering, Southeast University, Nanjing, China, in 2021 and received his M.S. degree from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China, in 2024 (Advisor: Prof. Jun Wu). Currently, he is pursuing his PhD degree in the Department of Computer Science at City University of Hong Kong (Advisor: Prof. Yuguang “Michael” Fang). His research interests include Wireless Networks, Mobile/Edge Computing, and Connected and Autonomous Driving. He is the reviewer for IEEE LNET, TPC member and session chair for IEEE GLOBECOM 2023.
+Yihang Tao received the B.S. degree from the School of Information Science and Engineering, Southeast University, Nanjing, China, in 2021 and received his M.S. degree from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China, in 2024. Currently, he is pursuing his PhD degree in the Department of Computer Science at City University of Hong Kong (Advisor: Prof. Yuguang “Michael” Fang). His current research interests include collaborative perception, autonomous driving, and AI security.

@@ -45,10 +45,11 @@ social:
 
 # TODO:这块是自己的研究兴趣
 interests:
-  - Computer Vision
-  - Collaborative Perception
-  - Connected and Autonomous Vehicles
+  - Autonomous Driving
   - Autonomous Driving Security
+  - LLM Post-Training
+  - Multi-Agent System
+  - Embodied AI
 
 # TODO:这块是自己的教育经历
 education:
