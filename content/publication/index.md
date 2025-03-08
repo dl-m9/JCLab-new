@@ -20,7 +20,7 @@ sections:
         <center>Check Prof. Fang's <a href="https://scholars.cityu.edu.hk/en/persons/yuguang-fang(b2d78936-ab0a-4186-9f64-0f468013de23)/publications.html">CityU Scholar</a> to obtain the full publication list!<br><br></center>
 
         ## **Accepted Papers in 2025**
-        1. **[CVPR'25]** Haonan An, Guang Hua, Zhengru Fang, Guowen Xu, Susanto Rahardja, and Yuguang Fang. "[Decoder Gradient Shield: Provable and High-Fidelity Prevention of Gradient-Based Box-Free Watermark Removal.]()" *In Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR), 2025*.
+        1. **[CVPR'25]** Haonan An, Guang Hua, Zhengru Fang, Guowen Xu, Susanto Rahardja, and Yuguang Fang. "[Decoder Gradient Shield: Provable and High-Fidelity Prevention of Gradient-Based Box-Free Watermark Removal.](https://arxiv.org/abs/2502.20924)" *In Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR), 2025*.
         2. **[ICRA'25]** Yihang Tao, Senkang Hu, Zhengru Fang, Yuguang Fang. “[Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention](https://arxiv.org/abs/2409.08840)”. *The 2025 IEEE International Conference on Robotics & Automation*, 19–23 May, Atlanta, USA. 
         ## **Accepted Papers in 2024**
         3. **[ToN]** Longzhi Yuan, Wei Gong, Yuguang Fang. "[Native WiFi Backscatter.](https://ieeexplore.ieee.org/abstract/document/10558798)" *IEEE/ACM Transactions on Networking*.
