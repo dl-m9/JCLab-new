@@ -8,23 +8,194 @@ sections:
 
   - block: markdown
     content:
-      title: <b>Wireless Intelligence and Networked Things Laboratory (WINET)</b>
+      title: 
       subtitle:
       text: |
        
-        <b>The Wireless Intelligence and Networked Things Laboratory (WINET) was founded by <a href="https://www.cs.cityu.edu.hk/~yugufang/">Prof. Yuguang "Micheal" Fang</a> in 2000 in University of Florida and moved to <a href="https://www.cityu.edu.hk/">City University of  Hong Kong</a> in 2022. Our mission is to develop technologies for IoT to improve people's quality of life.</b>  
+        <div class="slideshow-container">
+          <div class="mySlides fade">
+            <img src="files/signage.png" style="width:100%">
+          </div>
+          <div class="mySlides fade">
+            <img src="files/group1.jpg" style="width:100%">
+          </div>
+          <div class="mySlides fade">
+            <img src="files/group2.JPG" style="width:100%">
+          </div>
+          <div class="mySlides fade">
+            <img src="files/group3.JPG" style="width:100%">
+          </div>
+
+          <!-- 前后导航按钮 -->
+          <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+          <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+
+        <!-- 导航点 -->
+        <div style="text-align:center">
+          <span class="dot" onclick="currentSlide(1)"></span>
+          <span class="dot" onclick="currentSlide(2)"></span>
+          <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot" onclick="currentSlide(4)"></span>
+        </div>
+
+        <style>
+        /* 幻灯片容器样式 */
+        .slideshow-container {
+          max-width: 100%;
+          position: relative;
+          margin: auto;
+          height: 200px; /* 设置固定高度，根据您的实际图片调整 */
+          overflow: hidden;
+        }
+
+        /* 隐藏默认图片 */
+        .mySlides {
+          display: none;
+          width: 100%;
+          height: 100%;
+        }
+
+        .mySlides img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover; /* 保持图片比例并填充容器 */
+          object-position: center; /* 居中显示图片 */
+        }
+
+        /* 前后按钮 */
+        .prev, .next {
+          cursor: pointer;
+          position: absolute;
+          top: 50%;
+          width: auto;
+          margin-top: -22px;
+          padding: 16px;
+          color: white;
+          font-weight: bold;
+          font-size: 18px;
+          transition: 0.6s ease;
+          border-radius: 0 3px 3px 0;
+          user-select: none;
+          background-color: rgba(0,0,0,0.3);
+          z-index: 2; /* 确保按钮在图片上方 */
+        }
+
+        /* 定位"下一个"按钮到右边 */
+        .next {
+          right: 0;
+          border-radius: 3px 0 0 3px;
+        }
+
+        /* 悬停时添加黑色背景 */
+        .prev:hover, .next:hover {
+          background-color: rgba(0,0,0,0.8);
+        }
+
+        /* 导航点样式 */
+        .dot {
+          cursor: pointer;
+          height: 15px;
+          width: 15px;
+          margin: 0 2px;
+          background-color: #bbb;
+          border-radius: 50%;
+          display: inline-block;
+          transition: background-color 0.6s ease;
+        }
+
+        .active, .dot:hover {
+          background-color: #717171;
+        }
+
+        /* 淡入淡出动画 */
+        .fade {
+          animation-name: fade;
+          animation-duration: 1.5s;
+        }
+
+        @keyframes fade {
+          from {opacity: .4}
+          to {opacity: 1}
+        }
+        </style>
+
+        <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        // 前/后控制
+        function plusSlides(n) {
+          showSlides(slideIndex += n);
+        }
+
+        // 缩略图控制
+        function currentSlide(n) {
+          showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+          let i;
+          let slides = document.getElementsByClassName("mySlides");
+          let dots = document.getElementsByClassName("dot");
+          if (n > slides.length) {slideIndex = 1}
+          if (n < 1) {slideIndex = slides.length}
+          for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+          }
+          for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";
+          dots[slideIndex-1].className += " active";
+        }
+
+        // 预加载图片并统一尺寸
+        document.addEventListener("DOMContentLoaded", function() {
+          const slides = document.getElementsByClassName("mySlides");
+          const container = document.querySelector(".slideshow-container");
+          let maxHeight = 0;
+          
+          // 创建图片数组用于预加载
+          const images = [];
+          for (let i = 0; i < slides.length; i++) {
+            const img = slides[i].querySelector("img");
+            const newImg = new Image();
+            newImg.src = img.src;
+            images.push(newImg);
+            
+            // 当图片加载完成后，检查高度
+            newImg.onload = function() {
+              // 计算等比例缩放后的高度
+              const scaledHeight = (container.clientWidth / newImg.width) * newImg.height;
+              maxHeight = Math.max(maxHeight, scaledHeight);
+              
+              // 如果所有图片都已加载，设置容器高度
+              if (images.filter(img => img.complete).length === slides.length) {
+                container.style.height = maxHeight + "px";
+                for (let j = 0; j < slides.length; j++) {
+                  slides[j].style.height = maxHeight + "px";
+                }
+                showSlides(1); // 显示第一张幻灯片
+              }
+            };
+          }
+        });
+
+        // 自动播放幻灯片已被禁用
+        </script>
         
-    design:
-      columns: '1'
-      background:
-        image:
-          filename: group2.jpg
-          filters:
-            brightness: 1
-          parallax: True
-          position: center
-          size: coverhu
-        text_color_light: False
+    # design:
+    #   columns: '1'
+    #   background:
+    #     image:
+    #       filename: group2.jpg
+    #       filters:
+    #         brightness: 1
+    #       parallax: True
+    #       position: center
+    #       size: coverhu
+    #     text_color_light: False
         
           
       css_class: fullscreen
@@ -253,6 +424,17 @@ sections:
       #     captcha: false
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        ![](files/plaque.png)
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: 
   - block: markdown
     content:
       title:
