@@ -13,17 +13,20 @@ sections:
       text: |
        
         <div class="slideshow-container">
-          <div class="mySlides fade">
+          <div class="mySlides">
             <img src="files/signage.png" style="width:100%">
           </div>
-          <div class="mySlides fade">
-            <img src="files/group1.jpg" style="width:100%">
+          <div class="mySlides">
+            <img src="files/group1.png" style="width:100%">
           </div>
-          <div class="mySlides fade">
+          <div class="mySlides">
             <img src="files/group2.JPG" style="width:100%">
           </div>
-          <div class="mySlides fade">
+          <div class="mySlides">
             <img src="files/group3.JPG" style="width:100%">
+          </div>
+          <div class="mySlides">
+            <img src="files/group4.jpg" style="width:100%">
           </div>
 
           <!-- 前后导航按钮 -->
@@ -37,6 +40,7 @@ sections:
           <span class="dot" onclick="currentSlide(2)"></span>
           <span class="dot" onclick="currentSlide(3)"></span>
           <span class="dot" onclick="currentSlide(4)"></span>
+          <span class="dot" onclick="currentSlide(5)"></span>
         </div>
 
         <style>
@@ -45,30 +49,41 @@ sections:
           max-width: 100%;
           position: relative;
           margin: auto;
-          height: 800px; /* 设置固定高度 */
+          height: 800px;
           overflow: hidden;
         }
 
-        /* 修改幻灯片显示方式 */
+        /* 幻灯片基本样式 */
         .mySlides {
-          display: none; /* 默认隐藏 */
+          display: none; /* 默认隐藏所有幻灯片 */
           width: 100%;
           height: 100%;
+          position: absolute;
+          top: 0;
+          left: 0;
+          animation-name: fade;
+          animation-duration: 1.5s;
         }
 
-        /* 确保第一张幻灯片默认显示 */
-        .mySlides:first-child {
-          display: block;
+        /* 活动幻灯片样式 */
+        .mySlides.active {
+          display: block; /* 显示当前幻灯片 */
         }
 
+        /* 幻灯片图片样式 */
         .mySlides img {
           width: 100%;
           height: 100%;
           object-fit: cover;
-          object-position: center;
         }
 
-        /* 前后按钮 */
+        /* 淡入淡出动画 */
+        @keyframes fade {
+          from {opacity: 0.4}
+          to {opacity: 1}
+        }
+
+        /* 前后按钮样式 */
         .prev, .next {
           cursor: pointer;
           position: absolute;
@@ -83,16 +98,14 @@ sections:
           border-radius: 0 3px 3px 0;
           user-select: none;
           background-color: rgba(0,0,0,0.3);
-          z-index: 2; /* 确保按钮在图片上方 */
+          z-index: 2;
         }
 
-        /* 定位"下一个"按钮到右边 */
         .next {
           right: 0;
           border-radius: 3px 0 0 3px;
         }
 
-        /* 悬停时添加黑色背景 */
         .prev:hover, .next:hover {
           background-color: rgba(0,0,0,0.8);
         }
@@ -112,33 +125,30 @@ sections:
         .active, .dot:hover {
           background-color: #717171;
         }
-
-        /* 淡入淡出动画 */
-        .fade {
-          animation-name: fade;
-          animation-duration: 1.5s;
-        }
-
-        @keyframes fade {
-          from {opacity: .4}
-          to {opacity: 1}
-        }
         </style>
 
         <script>
+        // 初始化幻灯片索引
         let slideIndex = 1;
+        let slideInterval; // 用于存储自动切换的计时器
 
-        // 简化的显示幻灯片函数
+        // 显示指定索引的幻灯片
         function showSlides(n) {
+          // 获取所有幻灯片和导航点元素
           const slides = document.getElementsByClassName("mySlides");
           const dots = document.getElementsByClassName("dot");
           
-          if (n > slides.length) {slideIndex = 1}
-          if (n < 1) {slideIndex = slides.length}
+          // 处理索引边界情况
+          if (n > slides.length) {
+            slideIndex = 1;
+          }
+          if (n < 1) {
+            slideIndex = slides.length;
+          }
           
           // 隐藏所有幻灯片
           for (let i = 0; i < slides.length; i++) {
-            slides[i].style.display = "none";
+            slides[i].className = "mySlides";
           }
           
           // 移除所有导航点的active类
@@ -146,27 +156,56 @@ sections:
             dots[i].className = dots[i].className.replace(" active", "");
           }
           
-          // 显示当前幻灯片和激活对应导航点
-          slides[slideIndex-1].style.display = "block";
+          // 显示当前幻灯片
+          slides[slideIndex-1].className = "mySlides active";
           dots[slideIndex-1].className += " active";
+          
+          // 重置自动切换计时器
+          resetAutoSlide();
         }
 
+        // 切换到下一张或上一张幻灯片
         function plusSlides(n) {
           showSlides(slideIndex += n);
         }
 
+        // 切换到指定幻灯片
         function currentSlide(n) {
           showSlides(slideIndex = n);
         }
 
-        // 页面加载完成后初始化
-        window.onload = function() {
-          showSlides(slideIndex);
-        };
+        // 自动切换到下一张幻灯片
+        function autoSlide() {
+          plusSlides(1);
+        }
 
-        // 确保DOM加载完成后也初始化
+        // 重置自动切换计时器
+        function resetAutoSlide() {
+          // 清除现有计时器
+          clearInterval(slideInterval);
+          // 设置新的计时器，每5秒切换一次
+          slideInterval = setInterval(autoSlide, 5000);
+        }
+
+        // 页面加载完成后初始化
         document.addEventListener("DOMContentLoaded", function() {
+          // 显示第一张幻灯片
           showSlides(slideIndex);
+          // 启动自动切换
+          resetAutoSlide();
+          
+          // 当用户鼠标悬停在幻灯片上时暂停自动切换
+          const container = document.querySelector(".slideshow-container");
+          if (container) {
+            container.addEventListener("mouseenter", function() {
+              clearInterval(slideInterval);
+            });
+            
+            // 当用户鼠标离开幻灯片时恢复自动切换
+            container.addEventListener("mouseleave", function() {
+              resetAutoSlide();
+            });
+          }
         });
         </script>
         
