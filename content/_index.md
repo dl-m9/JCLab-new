@@ -45,22 +45,27 @@ sections:
           max-width: 100%;
           position: relative;
           margin: auto;
-          height: 200px; /* 设置固定高度，根据您的实际图片调整 */
+          height: 800px; /* 设置固定高度 */
           overflow: hidden;
         }
 
-        /* 隐藏默认图片 */
+        /* 修改幻灯片显示方式 */
         .mySlides {
-          display: none;
+          display: none; /* 默认隐藏 */
           width: 100%;
           height: 100%;
+        }
+
+        /* 确保第一张幻灯片默认显示 */
+        .mySlides:first-child {
+          display: block;
         }
 
         .mySlides img {
           width: 100%;
           height: 100%;
-          object-fit: cover; /* 保持图片比例并填充容器 */
-          object-position: center; /* 居中显示图片 */
+          object-fit: cover;
+          object-position: center;
         }
 
         /* 前后按钮 */
@@ -122,67 +127,47 @@ sections:
 
         <script>
         let slideIndex = 1;
-        showSlides(slideIndex);
 
-        // 前/后控制
-        function plusSlides(n) {
-          showSlides(slideIndex += n);
-        }
-
-        // 缩略图控制
-        function currentSlide(n) {
-          showSlides(slideIndex = n);
-        }
-
+        // 简化的显示幻灯片函数
         function showSlides(n) {
-          let i;
-          let slides = document.getElementsByClassName("mySlides");
-          let dots = document.getElementsByClassName("dot");
+          const slides = document.getElementsByClassName("mySlides");
+          const dots = document.getElementsByClassName("dot");
+          
           if (n > slides.length) {slideIndex = 1}
           if (n < 1) {slideIndex = slides.length}
-          for (i = 0; i < slides.length; i++) {
+          
+          // 隐藏所有幻灯片
+          for (let i = 0; i < slides.length; i++) {
             slides[i].style.display = "none";
           }
-          for (i = 0; i < dots.length; i++) {
+          
+          // 移除所有导航点的active类
+          for (let i = 0; i < dots.length; i++) {
             dots[i].className = dots[i].className.replace(" active", "");
           }
+          
+          // 显示当前幻灯片和激活对应导航点
           slides[slideIndex-1].style.display = "block";
           dots[slideIndex-1].className += " active";
         }
 
-        // 预加载图片并统一尺寸
-        document.addEventListener("DOMContentLoaded", function() {
-          const slides = document.getElementsByClassName("mySlides");
-          const container = document.querySelector(".slideshow-container");
-          let maxHeight = 0;
-          
-          // 创建图片数组用于预加载
-          const images = [];
-          for (let i = 0; i < slides.length; i++) {
-            const img = slides[i].querySelector("img");
-            const newImg = new Image();
-            newImg.src = img.src;
-            images.push(newImg);
-            
-            // 当图片加载完成后，检查高度
-            newImg.onload = function() {
-              // 计算等比例缩放后的高度
-              const scaledHeight = (container.clientWidth / newImg.width) * newImg.height;
-              maxHeight = Math.max(maxHeight, scaledHeight);
-              
-              // 如果所有图片都已加载，设置容器高度
-              if (images.filter(img => img.complete).length === slides.length) {
-                container.style.height = maxHeight + "px";
-                for (let j = 0; j < slides.length; j++) {
-                  slides[j].style.height = maxHeight + "px";
-                }
-                showSlides(1); // 显示第一张幻灯片
-              }
-            };
-          }
-        });
+        function plusSlides(n) {
+          showSlides(slideIndex += n);
+        }
 
-        // 自动播放幻灯片已被禁用
+        function currentSlide(n) {
+          showSlides(slideIndex = n);
+        }
+
+        // 页面加载完成后初始化
+        window.onload = function() {
+          showSlides(slideIndex);
+        };
+
+        // 确保DOM加载完成后也初始化
+        document.addEventListener("DOMContentLoaded", function() {
+          showSlides(slideIndex);
+        });
         </script>
         
     # design:
