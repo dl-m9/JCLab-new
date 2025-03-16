@@ -440,11 +440,13 @@ sections:
       
   # - block: collection
   #   content:
-  #     title: Latest News
+  #     title: Seminar and Talks
   #     subtitle: 
   #     text: 
   #     count: 5
   #     filters:
+  #       folders: 
+  #         - post
   #       author: ''
   #       category: ''
   #       exclude_featured: false
@@ -454,10 +456,25 @@ sections:
   #     order: desc
   #     page_type: event
   #   design:
-  #     view: showcase
-  #     columns: '2'
-  
-  # - block: markdown
+  #     view: compact
+  #     columns: '1'
+  - block: portfolio
+    id: seminar
+    content: 
+      title: Seminar & Talks
+      filters:
+        folders:
+          - seminar
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        kinds:
+          - page
+      sort_by: 'Date'
+      sort_ascending: false
+    
+    # - block: markdown
   #   content:
   #     title:
   #     subtitle: ''
