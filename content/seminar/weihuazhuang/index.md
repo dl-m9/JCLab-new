@@ -1,7 +1,7 @@
 ---
 title: Stochastic Cumulative DNN Inference for Intelligent IoT Applications @2023.10.7
 
-date: 2023-05-03
+date: 2023-10-07
 ---
 
 Speaker: **Prof Weihua Zhuang**.

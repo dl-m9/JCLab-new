@@ -1,7 +1,7 @@
 ---
-title: RingSFL, An Adaptive Split Federated Learning Towards Taming Client Heterogeneity @2025.3.18
+title: RingSFL, An Adaptive Split Federated Learning Towards Taming Client Heterogeneity @2023.10.9
 
-date: 2025-03-18
+date: 2023-10-09
 ---
 
 Speaker: **Prof. Nan Cheng**. Professor, School of Telecommunications Engineering Xidian University, Xi’an, Shaanxi Province, China 

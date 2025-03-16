@@ -473,6 +473,8 @@ sections:
           - page
       sort_by: 'Date'
       sort_ascending: false
+    # design:
+    #   view: showcase
     
     # - block: markdown
   #   content:
