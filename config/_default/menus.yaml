@@ -11,6 +11,9 @@ main:
   - name: News
     url: '#news'
     weight: 30
+  - name: Seminars
+    url: '#seminars'
+    weight: 35
   - name: People
     url: people
     weight: 40

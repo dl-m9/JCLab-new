@@ -461,7 +461,7 @@ sections:
   - block: portfolio
     id: seminar
     content: 
-      title: Seminar & Talks
+      title: Seminars & Talks
       filters:
         folders:
           - seminar
