@@ -12,7 +12,7 @@ main:
     url: '#news'
     weight: 30
   - name: Seminars
-    url: '#seminars'
+    url: '#seminar'
     weight: 35
   - name: People
     url: people
