@@ -49,7 +49,7 @@ sections:
           max-width: 100%;
           position: relative;
           margin: auto;
-          height: 800px;
+          height: 800px; /* 默认高度 */
           overflow: hidden;
         }
 
@@ -75,6 +75,7 @@ sections:
           width: 100%;
           height: 100%;
           object-fit: cover;
+          object-position: center;
         }
 
         /* 淡入淡出动画 */
@@ -124,6 +125,52 @@ sections:
 
         .active, .dot:hover {
           background-color: #717171;
+        }
+
+        /* 响应式设计 - 针对不同屏幕尺寸调整高度 */
+        @media screen and (max-width: 1200px) {
+          .slideshow-container {
+            height: 600px;
+          }
+        }
+
+        @media screen and (max-width: 992px) {
+          .slideshow-container {
+            height: 500px;
+          }
+        }
+
+        @media screen and (max-width: 768px) {
+          .slideshow-container {
+            height: 400px;
+          }
+          
+          .prev, .next {
+            padding: 10px;
+            font-size: 14px;
+          }
+          
+          .dot {
+            height: 12px;
+            width: 12px;
+          }
+        }
+
+        @media screen and (max-width: 480px) {
+          .slideshow-container {
+            height: 300px;
+          }
+          
+          .prev, .next {
+            padding: 8px;
+            font-size: 12px;
+          }
+          
+          .dot {
+            height: 10px;
+            width: 10px;
+            margin: 0 1px;
+          }
         }
         </style>
 
@@ -205,6 +252,31 @@ sections:
             container.addEventListener("mouseleave", function() {
               resetAutoSlide();
             });
+          }
+          
+          // 添加触摸滑动支持
+          let touchStartX = 0;
+          let touchEndX = 0;
+          
+          if (container) {
+            container.addEventListener('touchstart', function(e) {
+              touchStartX = e.changedTouches[0].screenX;
+            }, false);
+            
+            container.addEventListener('touchend', function(e) {
+              touchEndX = e.changedTouches[0].screenX;
+              handleSwipe();
+            }, false);
+          }
+          
+          function handleSwipe() {
+            if (touchEndX < touchStartX) {
+              // 向左滑动 - 下一张
+              plusSlides(1);
+            } else if (touchEndX > touchStartX) {
+              // 向右滑动 - 上一张
+              plusSlides(-1);
+            }
           }
         });
         </script>
