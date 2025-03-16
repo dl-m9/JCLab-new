@@ -4,7 +4,8 @@ title: Quantum Communications, Applications and Challenges
 date: 2024-05-13
 ---
 
-Speaker: **Prof. Jianqing Liu**, assistant professor, Department of Computer Science, North Carolina State University, USA
+Speaker: **Prof. Jianqing Liu**.
+Assistant professor, Department of Computer Science, North Carolina State University, USA
 <!--more-->
 
 

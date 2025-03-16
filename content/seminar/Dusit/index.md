@@ -4,7 +4,8 @@ date: 2024-05-13
 ---
 
 Speaker: 
-**Dr. Dusit Niyato**. President's Chair Professor,
+**Dr. Dusit Niyato**.
+President's Chair Professor,
 College of Computing & Data Science (CCDS), Nanyang Technological University, Singapore
 <!--more-->
 
