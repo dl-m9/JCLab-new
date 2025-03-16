@@ -1,12 +1,9 @@
 ---
-title: Department of Computer Science and JC STEM Lab of Smart City jointly present. Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks
+title: Department of Computer Science and JC STEM Lab of Smart City jointly present. Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks @2024.5.13
 date: 2024-05-13
 ---
 
-Speaker: 
-**Dr. Dusit Niyato**.
-President's Chair Professor,
-College of Computing & Data Science (CCDS), Nanyang Technological University, Singapore
+Speaker: **Prof. Dusit Niyato**. President's Chair Professor, College of Computing & Data Science (CCDS), Nanyang Technological University, Singapore
 <!--more-->
 
 
