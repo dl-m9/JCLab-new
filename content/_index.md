@@ -539,17 +539,7 @@ sections:
       #     captcha: false
     design:
       columns: '2'
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        ![](files/plaque.png)
-    design:
-      columns: '1'
-      background:
-        image:
-          filename: 
+  
   - block: markdown
     content:
       title:
@@ -564,4 +554,18 @@ sections:
         image:
           filename: 
       # css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+       <div style="text-align: center;">Funded by</div>
+        <div style="display: flex; justify-content: center; align-items: center;">
+          <img src="files/JC.png" width="30%">
+        </div>
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: 
 ---
